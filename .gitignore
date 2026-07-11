@@ -11,7 +11,7 @@ __pycache__/
 models/bert/model.safetensors
 
 # Streamlit cache
-.streamlit/
+.streamlit/config.toml
 
 # OS files
 .DS_Store
