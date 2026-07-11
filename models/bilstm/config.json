@@ -1,0 +1,10 @@
+{
+  "classes": [
+    "Bored",
+    "Confident",
+    "Confused",
+    "Curious",
+    "Frustrated"
+  ],
+  "max_len": 40
+}

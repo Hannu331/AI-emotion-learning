@@ -1,0 +1,21 @@
+# Environment variables (contains API key - never commit this)
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# BERT model - too large for GitHub (267MB), regenerate via train_bert.py
+models/bert/model.safetensors
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs - personal test data, not needed in repo
+data/logs.csv
