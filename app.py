@@ -416,7 +416,7 @@ def profile_tab():
                 current_label = f"{e['name']} ({e['email']})"
                 break
 
-        default_index = educator_options.index(current_label) if current_label in educator_options
+        default_index = educator_options.index(current_label) if current_label in educator_options else 0
 
 def main():
     init_db()
