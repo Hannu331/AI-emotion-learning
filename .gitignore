@@ -1,23 +1,47 @@
 # Environment variables (contains API key - never commit this)
 .env
+.envrc
 
 # Python
-venv/
 __pycache__/
+*.py[codz]
+*$py.class
 *.pyc
 *.pyo
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+MANIFEST
+
+# Virtual environments
+venv/
+.venv
+env/
+ENV/
 
 # Real user database and backups - must never be committed
 data/app.db
 *.bak
 
-# Streamlit cache
+# Logs - personal test data, not needed in repo
+data/logs.csv
+logs/interactions.csv
+
+# Streamlit
+.streamlit/secrets.toml
 .streamlit/config.toml
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
 
 # OS files
 .DS_Store
 Thumbs.db
 
-# Logs - personal test data, not needed in repo
-data/logs.csv
-logs/interactions.csv
+# Editor
+.vscode/
+.idea/

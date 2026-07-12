@@ -1,8 +1,6 @@
 # AI Learning Assistant — Emotion-Aware Support Platform
 
-An end-to-end system that detects a student's emotional state from
-free-text descriptions of their study challenges, and responds with
-empathetic, personalized guidance.
+An end-to-end system that detects a student's emotional state from free-text descriptions of their study challenges, and responds with empathetic, personalized guidance. Built with BiLSTM and BERT emotion classifiers, Gemini-generated guidance, and full student/educator/admin authentication.
 
 ## What it does
 
@@ -12,45 +10,49 @@ empathetic, personalized guidance.
   - **BERT** (fine-tuned DistilBERT via HuggingFace Transformers)
 - Boosts predictions with rule-based keyword matching for extra reliability
 - Generates empathetic, actionable guidance using Google's Gemini API
-- Logs every interaction to CSV for analytics
+- Logs every interaction to a SQLite database for analytics
 - Displays trends and history in a built-in analytics dashboard
 - Supports side-by-side model comparison, with an agreement/disagreement indicator
+- Full authentication: student/educator signup with real Gmail email verification, admin approval workflow for educators, and student-to-educator linking with a private/self option
 
 ## Emotions detected
 
 Bored, Confident, Confused, Curious, Frustrated
 
 ## Project structure
-
 emotion-learning-assistant/
 ├── app.py                     # Streamlit entrypoint
 ├── requirements.txt
-├── .env                       # your Gemini API key (not committed)
+├── .env                       # your Gemini/Gmail secrets (not committed)
 ├── data/
 │   ├── dataset.csv            # generated training data
 │   ├── train.csv / val.csv / test.csv
-│   └── logs.csv               # interaction logs (auto-created)
+│   └── app.db                 # SQLite database (not committed)
 ├── models/
 │   ├── bilstm/                # trained BiLSTM model + tokenizer
-│   └── bert/                  # fine-tuned BERT model + tokenizer
+│   └── bert/                  # fine-tuned BERT model + tokenizer (via Git LFS)
 └── src/
+├── config.py               # loads secrets from .env or Streamlit Cloud secrets
+├── database.py             # SQLite layer: users, auth, records, privacy
+├── email_client.py         # Gmail SMTP verification emails
 ├── keyword_rules.py        # keyword-based emotion boosting
-├── predict.py              # unified prediction interface (loads both models)
-├── gemini_client.py        # Gemini API wrapper
-├── generate_dataset.py     # synthetic dataset generator (template-based)
-├── split_dataset.py        # train/val/test splitter
-├── train_bilstm.py         # BiLSTM training script
-└── train_bert.py           # BERT fine-tuning script
+├── predict.py               # unified prediction interface (loads both models)
+├── gemini_client.py         # Gemini API wrapper
+├── generate_dataset.py      # synthetic dataset generator (template-based)
+├── split_dataset.py         # train/val/test splitter
+├── train_bilstm.py          # BiLSTM training script
+└── train_bert.py            # BERT fine-tuning script
 
 ## Setup
 
 ### 1. Clone and enter the project folder
 
 ```bash
-cd emotion-learning-assistant
+git clone https://github.com/Hannu331/AI-emotion-learning.git
+cd AI-emotion-learning
 ```
 
-### 2. Create and activate a virtual environment
+### 2. Create and activate a virtual environment (Python 3.10 or 3.11 required)
 
 ```bash
 python -m venv venv
@@ -64,22 +66,19 @@ venv\Scripts\activate        # Windows
 pip install -r requirements.txt
 ```
 
-### 4. Add your Gemini API key
+### 4. Add your secrets
 
-Create a `.env` file in the project root with:
+Create a `.env` file in the project root:
 
-GEMINI_API_KEY=your_real_key_here
+GEMINI_API_KEY=AQ.Ab8RN6J9DKoY9BafjHFRWdZmZZ-iG7wm1egqpGGU22guD4A6FQ
+GMAIL_ADDRESS=emotionassistantlearningai@gmail.com
+GMAIL_APP_PASSWORD=tfyo rmju pwrc vwqh
 
-Get a key from [Google AI Studio](https://aistudio.google.com/apikey).
-
-> Note: the free tier has a daily quota (20 requests/day at time of
-> writing). If you exceed it, the app gracefully falls back to a
-> generic supportive message instead of crashing.
+Get a Gemini key from [Google AI Studio](https://aistudio.google.com/apikey), and a Gmail App Password from `myaccount.google.com/apppasswords` (requires 2-Step Verification enabled).
 
 ### 5. (Already done, but for reference) Generate data & train models
 
-These steps were used to build the included `data/` and `models/`
-folders. You don't need to re-run them unless retraining from scratch:
+These steps built the included `data/` and `models/` folders. You don't need to re-run them unless retraining from scratch:
 
 ```bash
 python -m src.generate_dataset
@@ -96,32 +95,26 @@ streamlit run app.py
 
 Opens automatically at `http://localhost:8501`.
 
+Default admin login (seeded automatically on first run):
+
+Email: admin@learningassistant.local
+Password: ChangeMe123!
+
 ## How the dataset was built
 
-No public dataset matched this project's exact 5-label academic-emotion
-taxonomy in text form (most public datasets in this space are
-facial/video-based, e.g. DAiSEE). The original plan was to generate
-labeled examples using the Gemini API, but this hit free-tier daily
-quota limits. Instead, a local template + slot-filling generator
-(`src/generate_dataset.py`) was built, mixing formal and casual/
-internet-style phrasing per emotion. This was validated by testing
-trained models against completely unseen freeform sentences, confirming
-the models generalize beyond memorized templates rather than just
-recognizing the templates themselves.
+No public dataset matched this project's exact 5-label academic-emotion taxonomy in text form (most public datasets in this space are facial/video-based, e.g. DAiSEE). A local template + slot-filling generator (`src/generate_dataset.py`) was built instead, mixing formal and casual phrasing per emotion, and validated against unseen freeform sentences to confirm the models generalize rather than just memorizing templates.
 
 ## Model comparison
 
-BiLSTM and BERT are trained independently on the same data. The
-"Compare Both" mode in the app shows both models' predictions side by
-side, and flags when they disagree — which tends to happen on
-genuinely ambiguous text (e.g. text that could reasonably be read as
-either Frustrated or Confused).
+BiLSTM and BERT are trained independently on the same data. The "Compare Both" mode in the app shows both models' predictions side by side and flags when they disagree — which tends to happen on genuinely ambiguous text.
+
+## Privacy model
+
+Students choose an educator to link to at signup (changeable later from their Profile), or opt to keep their interactions fully private. Educators only see records from students linked to them. Admins can see that a private record exists (for oversight) but its content is masked. Students can export their full data as JSON or permanently delete their account at any time.
 
 ## Known limitations
 
-- Dataset is synthetically generated (template-based), not sourced
-  from real student interactions
-- Gemini free-tier quota limits real-time guidance generation to a
-  small number of requests per day
-- Emotion labels are single-label per interaction; true student
-  emotional states are often mixed
+- Dataset is synthetically generated (template-based), not sourced from real student interactions
+- Gemini free-tier quota limits real-time guidance generation to a small number of requests per day
+- Emotion labels are single-label per interaction, though the keyword layer surfaces likely mixed emotions
+- SQLite is used for simplicity; a production deployment would want a hosted database instead
