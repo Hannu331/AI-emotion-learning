@@ -19,6 +19,14 @@ LOG_PATH = "data/logs.csv"
 LOG_FIELDS = ["timestamp", "student_text", "model_choice", "primary_emotion"] + EMOTIONS + ["gemini_response"]
 
 st.set_page_config(page_title="AI Learning Assistant", page_icon="🧠", layout="wide")
+hide_streamlit_style = """
+    <style>
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
+    header {visibility: hidden;}
+    </style>
+"""
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 CUSTOM_CSS = """
 <style>
