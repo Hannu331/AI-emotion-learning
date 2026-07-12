@@ -1,771 +1,1050 @@
 text,emotion
-Is there a reason data structures works this way? I want to understand the why.,Curious
-"Honestly this API feels so repetitive, I keep zoning out.",Bored
-"Honestly the reading assignment feels so repetitive, I keep zoning out.",Bored
-someone explain this lab report pls im so confused,Confused
-"This is so annoying, this economics concept keeps breaking no matter what I do.",Frustrated
-"solid on the presentation slides now, ready for whatevers next",Confident
-"None of this makes sense, especially SQL joins.",Confused
-I've reread data structures three times and I'm still confused.,Confused
-"I'm just going through the motions with linear algebra, not really engaged.",Bored
-This part of this chemistry equation just doesn't add up to me.,Confused
-"meh another the coding assignment, we already know this stuff",Bored
-"why does the presentation slides even work like that, genuinely curious",Curious
-"nailed it, the reading assignment works exactly how it should now",Confident
-"ugh why wont this French verb tense just work, ive tried everything",Frustrated
-"im not even worried about linear algebra anymore, got it down",Confident
-"so done with the history reading, nothing is working no matter what",Frustrated
-I think I've finally got the hang of this physics problem set!,Confident
-pretty sure i can handle object-oriented programming no problem now,Confident
-"solid on machine learning basics now, ready for whatevers next",Confident
-I'm stuck on machine learning basics and it's making me want to give up.,Frustrated
-omg i think i finally figured out this physics problem set!!,Confident
-"binary search is just... nothing new, kinda bored",Bored
-"This made me wonder about this chemistry equation, can you explain more?",Curious
-Everything about this grammar rule feels flat and uninteresting right now.,Bored
-"im mixing up the biology diagram with something else i think, so unclear",Confused
-this SQL joins lecture is a snoozefest,Bored
-I redo the exam material again and again and it still doesn't work.,Frustrated
-Something about object-oriented programming isn't making sense and I can't pinpoint why.,Confused
-im actually feeling good about the presentation slides for once,Confident
-"literally about to give up on photosynthesis, im exhausted",Frustrated
-Why does the research paper thesis keep going wrong every single time?,Frustrated
-"huh, i dont get machine learning basics at all",Confused
-"why is recursion so dry, i can barely stay awake",Bored
-"why does this proof even work like that, genuinely curious",Curious
-"never thought about photosynthesis like that, want to learn more",Curious
-is there a cool real world use case for the reading assignment?,Curious
-I feel solid going into the next part of the lecture notes.,Confident
-"I'm ready to tackle the essay outline head on, no worries.",Confident
-"I actually understand this chemistry equation now, this makes sense.",Confident
-"I'm intrigued by this loop, is there a real-world example?",Curious
-Can someone explain the history reading? I have no idea what's going on.,Confused
-I've tried everything and this physics problem set still isn't working in today's lecture.,Frustrated
-wait so how is SQL joins related to the other stuff we learned,Curious
-This part of SQL joins just doesn't add up to me.,Confused
-"ooh wait thats interesting, how does this physics problem set actually work under the hood?",Curious
-"never thought about this French verb tense like that, want to learn more",Curious
-"Honestly binary search feels so repetitive, I keep zoning out.",Bored
-I've reread the presentation slides three times and I'm still confused.,Confused
-"never thought about this calculus problem like that, want to learn more",Curious
-"cant focus on recursion at all rn, so dull",Bored
-yawn... this grammar rule is not holding my attention today,Bored
-"This made me wonder about data structures, can you explain more?",Curious
-skimming through this chemistry equation bc its so uninteresting,Bored
-someone explain SQL joins pls im so confused,Confused
-I feel solid going into the next part of the presentation slides.,Confident
-"why does this economics concept even work like that, genuinely curious",Curious
-im actually feeling good about the history reading for once,Confident
-not even a little interested in this physics problem set tbh,Bored
-I feel solid going into the next part of this French verb tense.,Confident
-I don't feel motivated to keep going through SQL joins right now.,Bored
-"What happens if we tweak thermodynamics a little, would it change things?",Curious
-"this is so annoying, photosynthesis keeps breaking on me",Frustrated
-"what would happen if we pushed statistics homework further, curious to see",Curious
-I feel solid going into the next part of object-oriented programming.,Confident
-this the exam material lecture is a snoozefest,Bored
-"I'm intrigued by the coding assignment, is there a real-world example?",Curious
-"Honestly this economics concept feels so repetitive, I keep zoning out.",Bored
-"this doesnt add up, binary search seems contradictory",Confused
-"Honestly the group project plan feels so repetitive, I keep zoning out.",Bored
-"None of this makes sense, especially my code.",Confused
-why does this grammar rule keep failing every single time i try,Frustrated
-"at my limit with the reading assignment, ive tried literally everything",Frustrated
-omg i think i finally figured out the exam material!!,Confident
-"Honestly this French verb tense feels so repetitive, I keep zoning out.",Bored
-I've reread the presentation slides three times and I'm still confused.,Confused
-"None of this makes sense, especially data structures.",Confused
-"this got me thinking about statistics homework, wanna know more",Curious
-"what would happen if we pushed the lecture notes further, curious to see",Curious
-this lab report is just not making sense no matter how many times i read it,Confused
-"brain totally blanking on this economics concept, whats going on",Confused
-cant tell whats going on with this loop at all,Confused
-I keep checking the clock instead of working on object-oriented programming.,Bored
-I redo the biology diagram again and again and it still doesn't work.,Frustrated
-"hmm what if we changed something in this Python error, would that break it?",Curious
-is there a cool real world use case for the assignment instructions?,Curious
-"that part about this chemistry equation was surprisingly interesting, more please",Curious
-is there a cool real world use case for this API?,Curious
-I can't bring myself to care about data structures today.,Bored
-"Wait, I'm lost — how does this economics concept even work?",Confused
-I don't feel motivated to keep going through the research paper thesis right now.,Bored
-"I'm ready to tackle linear algebra head on, no worries.",Confident
-"ooh wait thats interesting, how does the lecture notes actually work under the hood?",Curious
-keep hitting the same error with this physics problem set ugh,Frustrated
-"this got me thinking about the coding assignment, wanna know more",Curious
-the assignment instructions is a total blur to me right now,Confused
-pretty sure i can handle this Python error no problem now,Confident
-keep hitting the same error with machine learning basics ugh,Frustrated
-I've reread this formula three times and I'm still confused.,Confused
-"I'm intrigued by this physics problem set, is there a real-world example?",Curious
-I'm stuck on thermodynamics and it's making me want to give up.,Frustrated
-"Finally cracked object-oriented programming, I know exactly what I'm doing.",Confident
-"kinda curious now, is there more to this physics problem set than what we covered?",Curious
-I can't bring myself to care about SQL joins today.,Bored
-"huh, i dont get the group project plan at all",Confused
-took a while but i totally get the exam material now,Confident
-Now I'm curious how the coding assignment connects to what we learned before.,Curious
-I keep wanting to ask more questions about the presentation slides.,Curious
-"I keep getting mixed up on the reading assignment, it's unclear.",Confused
-"this doesnt add up, binary search seems contradictory",Confused
-"I want to dig deeper into binary search, there's more to it I think.",Curious
-"why wont this French verb tense just work already, im so over it",Frustrated
-Now I'm curious how my code connects to what we learned before.,Curious
-"Meh, linear algebra again... I've done this a hundred times.",Bored
-ive redone algorithms and complexity like 5 times and still broken,Frustrated
-"hmm what if we changed something in this formula, would that break it?",Curious
-"cant focus on this physics problem set at all rn, so dull",Bored
-"why does the history reading even work like that, genuinely curious",Curious
-"Wait, that's actually interesting — how does the group project plan really work?",Curious
-My brain just blanks every time I look at thermodynamics.,Confused
-"This is dragging on forever, this loop just isn't interesting to me.",Bored
-im actually feeling good about the essay outline for once,Confident
-I've been staring at the group project plan right now and I just can't focus anymore.,Bored
-someone explain this chemistry equation pls im so confused,Confused
-This error in data structures is driving me crazy.,Frustrated
-"huh, i dont get the essay outline at all",Confused
-I keep hitting the same wall with the reading assignment and I'm over it.,Frustrated
-I keep checking the clock instead of working on the reading assignment.,Bored
-I'm not sure what the question is even asking about this French verb tense.,Confused
-This error in this French verb tense is driving me crazy.,Frustrated
-"just aced a practice question on SQL joins, feeling great",Confident
-"Meh, the assignment instructions again... I've done this a hundred times.",Bored
-I keep checking the clock instead of working on this loop.,Bored
-"this lab report finally makes sense, i got this",Confident
-"ugh why wont the reading assignment just work, ive tried everything",Frustrated
-"huh, i dont get this Python error at all",Confused
-"yesss got this economics concept working, feeling good",Confident
-i keep drifting off thinking about literally anything else during the lecture notes,Bored
-"This part of thermodynamics used to trip me up, but not anymore.",Confident
-This error in the lecture notes is driving me crazy.,Frustrated
-I think I've finally got the hang of the reading assignment!,Confident
-I keep wanting to ask more questions about my code.,Curious
-"Wait, I'm lost — how does this formula even work?",Confused
-"im not even worried about the reading assignment anymore, got it down",Confident
-this economics concept is just not making sense no matter how many times i read it,Confused
-"I'm intrigued by the biology diagram, is there a real-world example?",Curious
-omg i think i finally figured out this chemistry equation!!,Confident
-"just aced a practice question on SQL joins, feeling great",Confident
-"I'd love to explore the lecture notes further, it's more fascinating than I expected.",Curious
-skimming through the research paper thesis bc its so uninteresting,Bored
-"I thought I understood object-oriented programming, but now I'm totally stuck.",Confused
-"I'm ready to tackle binary search head on, no worries.",Confident
-"that part about the biology diagram was surprisingly interesting, more please",Curious
-wait so how is this lab report related to the other stuff we learned,Curious
-"ooh wait thats interesting, how does this API actually work under the hood?",Curious
-omg i think i finally figured out my code!!,Confident
-"This part of data structures used to trip me up, but not anymore.",Confident
-this this French verb tense lecture is a snoozefest,Bored
-"I want to dig deeper into the essay outline, there's more to it I think.",Curious
-I redo the assignment instructions again and again and it still doesn't work.,Frustrated
-is there a cool real world use case for this proof?,Curious
-"ugh why wont the exam material just work, ive tried everything",Frustrated
-this API is being so difficult for no reason,Frustrated
-someone explain the coding assignment pls im so confused,Confused
-data structures is just not making sense no matter how many times i read it,Confused
-took a while but i totally get the research paper thesis now,Confident
-"This part of this lab report used to trip me up, but not anymore.",Confident
-I think I've finally got the hang of the presentation slides!,Confident
-This part of photosynthesis just doesn't add up to me.,Confused
-"brain totally blanking on statistics homework, whats going on",Confused
-"Meh, this grammar rule again... I've done this a hundred times.",Bored
-"im so lost with the group project plan rn, nothing is clicking",Confused
-idk what im even looking at with statistics homework,Confused
-"yesss got the biology diagram working, feeling good",Confident
-"I'm intrigued by the research paper thesis, is there a real-world example?",Curious
-"so done with machine learning basics, nothing is working no matter what",Frustrated
-"im losing my mind over statistics homework, nothing helps",Frustrated
-"at my limit with photosynthesis, ive tried literally everything",Frustrated
-I've tried everything and data structures still isn't working while revising my draft.,Frustrated
-"just aced a practice question on the coding assignment, feeling great",Confident
-My brain just blanks every time I look at this loop.,Confused
-not even a little interested in machine learning basics tbh,Bored
-skimming through machine learning basics bc its so uninteresting,Bored
-"why is object-oriented programming so dry, i can barely stay awake",Bored
-idk what im even looking at with linear algebra,Confused
-I'm stuck on the research paper thesis and it's making me want to give up.,Frustrated
-"this doesnt add up, this formula seems contradictory",Confused
-"my code is just... nothing new, kinda bored",Bored
-"thermodynamics isn't clicking for me, what am I missing?",Confused
-yawn... this API is not holding my attention today,Bored
-"I'm ready to tackle the coding assignment head on, no worries.",Confident
-"im mixing up SQL joins with something else i think, so unclear",Confused
-"why is the reading assignment so dry, i can barely stay awake",Bored
-"hmm what if we changed something in this formula, would that break it?",Curious
-Everything about the research paper thesis feels flat and uninteresting right now.,Bored
-I wonder how data structures would apply outside of class.,Curious
-so is the history reading used in real projects or just theory,Curious
-"Pretty sure I nailed statistics homework while revising my draft, feeling good about it.",Confident
-wait so how is the reading assignment related to the other stuff we learned,Curious
-This error in my code is driving me crazy.,Frustrated
-"the assignment instructions finally makes sense, i got this",Confident
-I've tried everything and my code still isn't working again.,Frustrated
-I walked through the biology diagram step by step and it clicked.,Confident
-I keep checking the clock instead of working on linear algebra.,Bored
-I walked through machine learning basics step by step and it clicked.,Confident
-"im so lost with this calculus problem rn, nothing is clicking",Confused
-"solid on thermodynamics now, ready for whatevers next",Confident
-the group project plan just isn't cooperating no matter what I try while studying alone.,Frustrated
-I'm stuck on this economics concept and it's making me want to give up.,Frustrated
-"ugh why wont the exam material just work, ive tried everything",Frustrated
-"why does statistics homework even work like that, genuinely curious",Curious
-im actually feeling good about the essay outline for once,Confident
-I keep hitting the same wall with SQL joins and I'm over it.,Frustrated
-"Pretty sure I nailed thermodynamics in class today, feeling good about it.",Confident
-"im so lost with linear algebra rn, nothing is clicking",Confused
-im actually feeling good about this loop for once,Confident
-"huh, i dont get the assignment instructions at all",Confused
-now i wanna go down a rabbit hole on the presentation slides,Curious
-I walked through machine learning basics step by step and it clicked.,Confident
-cant tell whats going on with the reading assignment at all,Confused
-I don't feel motivated to keep going through the reading assignment right now.,Bored
-I think I've finally got the hang of the research paper thesis!,Confident
-"Wait, that's actually interesting — how does machine learning basics really work?",Curious
-"the essay outline is just... nothing new, kinda bored",Bored
-I've reread the lecture notes three times and I'm still confused.,Confused
-"this doesnt add up, the group project plan seems contradictory",Confused
-I keep checking the clock instead of working on this formula.,Bored
-why does this French verb tense keep failing every single time i try,Frustrated
+"Wait, which ones can do it now? Seriously, I don't really know this one.",Confused
+"At the very least our shithousery is better, and I highly doubt there's any [NAME] who can outda the da's on here",Confused
+"so, when and how do we pull a lando and turn on vader?",Curious
+[NAME] had a great idea about this problem actually,Confident
+"Yes!! My favourite film - I came here to suggest it, too.",Confident
+"What? That is the most recent big meme, it's not cringy",Confused
+"Also, do you have a link with updates? I cannot find any reports like this.",Curious
+It’s such a good show tho,Confident
+Everything about the essay outline feels flat and uninteresting right now.,Bored
+i keep drifting off thinking about literally anything else during this chemistry equation,Bored
+Lakers truly have the worst fans,Frustrated
+"I'm just going through the motions with thermodynamics, not really engaged.",Bored
+"He was standing there, they went up to him. Like have you not watched the video?",Confused
+Maybe the abandonment of his mother. Some people won’t see that as abusive but it really is.,Confused
+"Grew up in the south. When I left for college, I was very confused why people were walking around with smudges on their foreheads for Ash Wednesday.",Confused
+YOU UNDERESTIMATE MY POWER!!!,Frustrated
+Are you implying that you can't take a joke?,Curious
+"You need to tell her, and make sure she knows it’s not your kid. You went through with a dna test right?",Curious
+I did the poll slowly. Is that ok?,Curious
+"Its literally bread on a bread board, whats the issue here?",Curious
+"Huh, I wonder why the NFL doesn't have the umpire line up there anymore?",Confused
+zoned out like 3 times reading about this Python error,Bored
+u guys were a pretty good place to eat at :( ill miss it,Confident
+He’s so eager to please! This trait in dogs is so endearing.,Frustrated
+That's sad. I'm 16 and where I am there are loads of athiests my age. It's great.,Confident
+"It was the only thing that changed. The weight gain, terrible acne, and moods... it was all nasty.",Frustrated
+I hate this arm swing thing. Either try to sync up or just stop doing it.,Frustrated
+"No idea, maybe say nothing..............",Confused
+Is that a sattiva or an indica?,Confused
+Sick of that stupid floss dance,Frustrated
+"cant focus on the essay outline at all rn, so dull",Bored
+"He’s one of those players that you would love if he was on your team, but hate if you have to play against him.",Confident
+5 is absolutely average. 6 would be kinda cute but nothing special. Kinda annoys me that so many people rate 5 as being lowkey ugly lol,Frustrated
+Y'all are fucking annoying,Frustrated
 not even a little interested in the assignment instructions tbh,Bored
-"Nothing I try fixes the group project plan, I'm getting really frustrated.",Frustrated
-"None of this makes sense, especially my code.",Confused
-not even a little interested in recursion tbh,Bored
-"never thought about the essay outline like that, want to learn more",Curious
-is there a cool real world use case for the exam material?,Curious
-"this doesnt add up, the history reading seems contradictory",Confused
-I'm not sure what the question is even asking about this lab report.,Confused
-this chemistry equation is a total blur to me right now,Confused
-ive redone this calculus problem like 5 times and still broken,Frustrated
-i keep drifting off thinking about literally anything else during this loop,Bored
-"so frustrated rn, SQL joins just wont cooperate",Frustrated
-"Finally cracked this lab report, I know exactly what I'm doing.",Confident
-I walked through binary search step by step and it clicked.,Confident
-I walked through the group project plan step by step and it clicked.,Confident
-"I'm so close to giving up on this formula, it's exhausting.",Frustrated
-"Not gonna lie, the presentation slides is putting me to sleep for the group project.",Bored
-"Finally cracked this lab report, I know exactly what I'm doing.",Confident
-I'm confident I can explain this API to someone else now.,Confident
-cant tell whats going on with the biology diagram at all,Confused
-Can someone explain this formula? I have no idea what's going on.,Confused
-"literally about to give up on this calculus problem, im exhausted",Frustrated
-data structures is being so difficult for no reason,Frustrated
-I double-checked my work on the exam material and it all adds up.,Confident
-zoned out like 3 times reading about this French verb tense,Bored
-I double-checked my work on binary search and it all adds up.,Confident
-"hmm what if we changed something in object-oriented programming, would that break it?",Curious
-"nailed it, this economics concept works exactly how it should now",Confident
-This error in this chemistry equation is driving me crazy.,Frustrated
-"What happens if we tweak this French verb tense a little, would it change things?",Curious
-"never thought about binary search like that, want to learn more",Curious
-"Finally cracked linear algebra, I know exactly what I'm doing.",Confident
-"this doesnt add up, this API seems contradictory",Confused
-"linear algebra finally makes sense, i got this",Confident
-"huh, i dont get my code at all",Confused
-"ugh why wont this loop just work, ive tried everything",Frustrated
-I'm not sure what the question is even asking about the biology diagram.,Confused
-"I'm intrigued by photosynthesis, is there a real-world example?",Curious
-now i wanna go down a rabbit hole on linear algebra,Curious
-I've reread the biology diagram three times and I'm still confused.,Confused
-"I'm so close to giving up on this formula, it's exhausting.",Frustrated
-"that part about the reading assignment was surprisingly interesting, more please",Curious
-"Pretty sure I nailed this loop , feeling good about it.",Confident
-pretty sure i can handle the exam material no problem now,Confident
-I'm not sure what the question is even asking about thermodynamics.,Confused
-I'm not sure what the question is even asking about this Python error.,Confused
-so is data structures used in real projects or just theory,Curious
-"hmm what if we changed something in this economics concept, would that break it?",Curious
-"im mixing up this loop with something else i think, so unclear",Confused
-I'm out of patience with this physics problem set at this point.,Frustrated
-"hmm what if we changed something in the research paper thesis, would that break it?",Curious
-"im not even worried about the reading assignment anymore, got it down",Confident
-I don't feel motivated to keep going through linear algebra right now.,Bored
-I keep wanting to ask more questions about the group project plan.,Curious
-"Wait, that's actually interesting — how does the assignment instructions really work?",Curious
-"brain totally blanking on algorithms and complexity, whats going on",Confused
-I double-checked my work on the reading assignment and it all adds up.,Confident
-"that part about this API was surprisingly interesting, more please",Curious
-so is the research paper thesis used in real projects or just theory,Curious
-I keep hitting the same wall with the exam material and I'm over it.,Frustrated
-I'm out of patience with this calculus problem at this point.,Frustrated
-the group project plan is being so difficult for no reason,Frustrated
-I don't feel motivated to keep going through the exam material right now.,Bored
-wait what?? this economics concept makes zero sense to me,Confused
-Feels great knowing I can handle this Python error on my own now.,Confident
-i keep drifting off thinking about literally anything else during the assignment instructions,Bored
-I walked through this loop step by step and it clicked.,Confident
-"this got me thinking about thermodynamics, wanna know more",Curious
-ive redone this API like 5 times and still broken,Frustrated
-"This is so annoying, this formula keeps breaking no matter what I do.",Frustrated
-"that part about this API was surprisingly interesting, more please",Curious
-This error in algorithms and complexity is driving me crazy.,Frustrated
-"this doesnt add up, the presentation slides seems contradictory",Confused
-I've tried everything and data structures still isn't working during lab.,Frustrated
-SQL joins just isn't cooperating no matter what I try while revising my draft.,Frustrated
-"no more stress over data structures, i know what im doing",Confident
-Why does the reading assignment keep going wrong every single time?,Frustrated
-idk what im even looking at with this French verb tense,Confused
-"Something about this Python error sparked my interest, tell me more.",Curious
-My brain just blanks every time I look at this grammar rule.,Confused
-"What happens if we tweak this French verb tense a little, would it change things?",Curious
-I keep hitting the same wall with machine learning basics and I'm over it.,Frustrated
-smh this loop is dragging on forever,Bored
-the group project plan just isn't cooperating no matter what I try before the deadline.,Frustrated
-keep hitting the same error with recursion ugh,Frustrated
-Why does the reading assignment keep going wrong every single time?,Frustrated
+Maybe this one is more correct? Yours don't have Amarillo in the billboard,Confused
+Pro? Everyone does is and that makes it even more rude.,Frustrated
+"Maybe try a flashlight next to her bed, so she can turn it on and look around if she gets scared?",Confused
+I once got one missing half a wafer. So delicious.,Confident
+It's a decent flick. Id watch it,Confident
+I imagined a big last stand but it was just kind of a mess,Frustrated
+...silly walks,Frustrated
+"Hey [NAME], welcome to reddit! How's your first day? There's no chance you had a previous username, is there?",Curious
+You make less than zero sense.,Frustrated
+That's what worries me the most - the exposed glans. Is there anything you can recommend so I can prepare myself for underwear etc?,Curious
+. beautiful you have a way with words here,Confident
+Uhh? The only thing I see being over is -350B+ lost in trade each year,Confused
+More admired than [NAME] [NAME] is admired by starbucks baristas. Unemployed kids. And cat ladies,Confident
+"He was so proud of it, too ...",Confident
+Didn't u just say ur new to this? Why are you speaking?,Frustrated
+You're talking about something complete different there.,Confused
+"""Holy shit. I remember sleeping on the back window """"ledge"""" in my parents' car! I haven't thought about that in years.""",Frustrated
+"It was a very nice car, a 1978 Bugatti.",Confident
+Everything about algorithms and complexity feels flat and uninteresting right now.,Bored
+What in the fuck? Now is garbage!,Frustrated
+> I'm not sure why more people haven't been suggesting a trade like this because it doesn't make sense for the Nets lol,Confused
+I post on the the Donald you think I give a fat flying fuck?,Frustrated
+"The 12 days of Christmas is a bizarre song. Don't use it as a gift giving guide, you crazy idiots.",Frustrated
+Yeah I don’t know where you live. Also smooth haha,Confused
+"the coding assignment is just... nothing new, kinda bored",Bored
+I did the Karl's Corner VIP package and it was great. There was a mini Weezer museum and I met [NAME]! And saw [NAME] from afar.,Confident
+I keep checking the clock instead of working on statistics homework.,Bored
+Some are still thinking what's going on😂😂,Confused
+"cant focus on this economics concept at all rn, so dull",Bored
+How many kids do you see? xıs :ɹǝʍsuɐ,Curious
+"Not gonna lie, linear algebra is putting me to sleep in today's lecture.",Bored
+That’s a pretty cool TIL,Confident
+"I'm just going through the motions with the history reading, not really engaged.",Bored
+"Your voice is beautiful, the lyrics are beautiful, you’re beautiful, and I’m crying. AMAZING JOB",Confident
+"Either they don’t understand the meta context of it, or aren’t fans of such a meta ending.",Confused
+News flash scrims don’t mean shit.,Frustrated
+"happened to me last week too with mango, the pods were half empty and wet. handling them made my finger tips hurt after a while",Frustrated
+Idk I felt like that until I got diagnosed with a chronic autoimmune disease.,Confused
+skimming through this lab report bc its so uninteresting,Bored
+where did they even find that photo,Curious
+I can't bring myself to care about thermodynamics today.,Bored
+Are you promoting sex outside of marriage?,Curious
+"US postal service right? Might have something to do with the government shutdown, but I’m not sure.",Curious
+"That's where your mind went? Most of us instantly think about Winnie the Pooh and the Hundred Acre Woods, man. What's wrong with you?",Curious
+I've been staring at photosynthesis again and I just can't focus anymore.,Bored
+You can't choose whether you like pork better than chicken but you can choose whether you have pork or chicken for supper.,Confused
+My shirt is [NAME]. My balloon popper is the DNC. And then [NAME] is the fire under my ass to dive deeper ever day.,Frustrated
+"If we just got rid of capitalism, everything would be great!",Confident
+skimming through statistics homework bc its so uninteresting,Bored
+"Some of my fraternity brothers came over, but I’m not sure if it makes a difference",Confused
+What does that even mean? How does one decide right or wrong with something so vague?,Confused
+i really don't get why people like this guy,Confused
+"I'm just going through the motions with SQL joins, not really engaged.",Bored
+Southern Mexico tends to always get fucked in the ass as well,Frustrated
+I mean maybe I did too but as you said it was a decade ago or more.,Confused
+What's does the future hold for you two? You're not happy with him. You deserve better.,Curious
+Awesome!!!,Confident
+So either the dog is sick or the owner has non-trivial mental illnesses.,Confused
+Stars don’t get chicks my dude. Good way to let everyone know you are a fucking goober,Frustrated
+A waste of money to you is not a waste of money for everyone.,Frustrated
+I can't bring myself to care about this lab report today.,Bored
+He said he says it on his own but I don't want him to say it at all. I feel like their bio mom hates me,Frustrated
+smh the research paper thesis is dragging on forever,Bored
+The worst case of cultural appropriation is him mimicking human language and thoughts when he is clearly some kind of barely sentient pond scum.,Frustrated
+"It’s not even an argument, it’s just a quote with a stupid voice.",Frustrated
+You are an amazing human being,Confident
 "SQL joins feels like it's going nowhere, I've lost interest.",Bored
-"Nothing I try fixes this calculus problem, I'm getting really frustrated.",Frustrated
-"This part of thermodynamics got me thinking, what else is related to it?",Curious
-I can't bring myself to care about the research paper thesis today.,Bored
-i keep drifting off thinking about literally anything else during photosynthesis,Bored
-im actually feeling good about this lab report for once,Confident
-I can't bring myself to care about binary search today.,Bored
-"Honestly the research paper thesis feels so repetitive, I keep zoning out.",Bored
-I'm stuck on linear algebra and it's making me want to give up.,Frustrated
-not even a little interested in SQL joins tbh,Bored
-"why wont the coding assignment just work already, im so over it",Frustrated
-"Same old stuff with statistics homework, nothing new is grabbing my attention.",Bored
-Now I'm curious how the research paper thesis connects to what we learned before.,Curious
-data structures just isn't cooperating no matter what I try in class today.,Frustrated
-so is statistics homework used in real projects or just theory,Curious
-This error in machine learning basics is driving me crazy.,Frustrated
-keep hitting the same error with the essay outline ugh,Frustrated
-"meh another this proof, we already know this stuff",Bored
-"no more stress over the reading assignment, i know what im doing",Confident
-smh the lecture notes is dragging on forever,Bored
-I wonder how this loop would apply outside of class.,Curious
-I'm not sure what the question is even asking about the exam material.,Confused
-cant tell whats going on with the group project plan at all,Confused
-I don't feel motivated to keep going through the history reading right now.,Bored
-My brain just blanks every time I look at this grammar rule.,Confused
-"why does the biology diagram even work like that, genuinely curious",Curious
-This part of this French verb tense just doesn't add up to me.,Confused
-"Nothing I try fixes the history reading, I'm getting really frustrated.",Frustrated
-cant tell whats going on with this proof at all,Confused
-I keep wanting to ask more questions about binary search.,Curious
-"I want to dig deeper into this lab report, there's more to it I think.",Curious
-"I'm intrigued by this French verb tense, is there a real-world example?",Curious
-"This part of data structures used to trip me up, but not anymore.",Confident
-keep hitting the same error with this French verb tense ugh,Frustrated
-I don't understand thermodynamics at all again.,Confused
-wait so how is photosynthesis related to the other stuff we learned,Curious
-"Wait, I'm lost — how does the essay outline even work?",Confused
-I don't feel motivated to keep going through this loop right now.,Bored
-I can't bring myself to care about recursion today.,Bored
-I wonder how the assignment instructions would apply outside of class.,Curious
-cant tell whats going on with binary search at all,Confused
-I don't understand algorithms and complexity at all right now.,Confused
-"I actually understand data structures now, this makes sense.",Confident
-"Finally cracked the lecture notes, I know exactly what I'm doing.",Confident
-ive redone the biology diagram like 5 times and still broken,Frustrated
-"the group project plan finally makes sense, i got this",Confident
-"This made me wonder about this loop, can you explain more?",Curious
-I think I've finally got the hang of the group project plan!,Confident
-why does photosynthesis feel like a different language,Confused
-I wonder how my code would apply outside of class.,Curious
-"I actually understand this grammar rule now, this makes sense.",Confident
-"I'm just going through the motions with statistics homework, not really engaged.",Bored
-this physics problem set is just not making sense no matter how many times i read it,Confused
-I'm confident I can explain this physics problem set to someone else now.,Confident
-I keep hitting the same wall with data structures and I'm over it.,Frustrated
-I've got a good grip on this grammar rule while studying alone.,Confident
-omg i think i finally figured out the research paper thesis!!,Confident
-omg i think i finally figured out recursion!!,Confident
-ive redone this physics problem set like 5 times and still broken,Frustrated
-cant tell whats going on with machine learning basics at all,Confused
-I redo this Python error again and again and it still doesn't work.,Frustrated
-skimming through the exam material bc its so uninteresting,Bored
-"why is binary search so dry, i can barely stay awake",Bored
-Everything about this loop feels flat and uninteresting right now.,Bored
-"I actually understand this API now, this makes sense.",Confident
-This error in this Python error is driving me crazy.,Frustrated
-"Nothing I try fixes this loop, I'm getting really frustrated.",Frustrated
-idk what im even looking at with SQL joins,Confused
-"just aced a practice question on the biology diagram, feeling great",Confident
-"at my limit with this loop, ive tried literally everything",Frustrated
-"at my limit with this physics problem set, ive tried literally everything",Frustrated
-"I actually understand the essay outline now, this makes sense.",Confident
-"This part of machine learning basics got me thinking, what else is related to it?",Curious
-"yesss got the assignment instructions working, feeling good",Confident
-"ugh why wont this grammar rule just work, ive tried everything",Frustrated
-"this Python error feels like it's going nowhere, I've lost interest.",Bored
-"brain totally blanking on this formula, whats going on",Confused
-someone explain the research paper thesis pls im so confused,Confused
-wait so how is the essay outline related to the other stuff we learned,Curious
-"why does this proof even work like that, genuinely curious",Curious
-"This is dragging on forever, the essay outline just isn't interesting to me.",Bored
-I'm out of patience with linear algebra at this point.,Frustrated
-I've been staring at the group project plan for the group project and I just can't focus anymore.,Bored
-now i wanna go down a rabbit hole on data structures,Curious
-"Honestly the research paper thesis feels so repetitive, I keep zoning out.",Bored
-not even a little interested in the group project plan tbh,Bored
-"This is dragging on forever, the history reading just isn't interesting to me.",Bored
-Why does the history reading keep going wrong every single time?,Frustrated
-"why wont the essay outline just work already, im so over it",Frustrated
-why does the assignment instructions feel like a different language,Confused
-Something about the reading assignment isn't making sense and I can't pinpoint why.,Confused
-i keep drifting off thinking about literally anything else during this lab report,Bored
-this proof just isn't cooperating no matter what I try right now.,Frustrated
-I'm out of patience with the coding assignment at this point.,Frustrated
-I've spent hours on this calculus problem and I'm no closer to solving it.,Frustrated
-I keep hitting the same wall with the assignment instructions and I'm over it.,Frustrated
-"meh another algorithms and complexity, we already know this stuff",Bored
-"cant focus on linear algebra at all rn, so dull",Bored
-I wonder how photosynthesis would apply outside of class.,Curious
+"Yeah, the death of pharmaceutical producers seems like a weird thing to root for.",Confused
+Idk how tf he was able to play on pot and booze that sounds hard af to do,Confused
+"If it’s not raining, then GoBike is great. Only $15 for a month.",Confident
 this SQL joins lecture is a snoozefest,Bored
-"I'm so close to giving up on the biology diagram, it's exhausting.",Frustrated
-the presentation slides clicked for me and now im flying through it,Confident
-"This part of machine learning basics used to trip me up, but not anymore.",Confident
-took a while but i totally get photosynthesis now,Confident
-I think I've finally got the hang of this formula!,Confident
-"Wait, I'm lost — how does algorithms and complexity even work?",Confused
-"yesss got the biology diagram working, feeling good",Confident
-"I'm ready to tackle the reading assignment head on, no worries.",Confident
-ive redone this loop like 5 times and still broken,Frustrated
-i keep drifting off thinking about literally anything else during the research paper thesis,Bored
-Everything about the group project plan feels flat and uninteresting right now.,Bored
-"this is so annoying, machine learning basics keeps breaking on me",Frustrated
-Everything about this physics problem set feels flat and uninteresting right now.,Bored
-this economics concept is a total blur to me right now,Confused
-"nailed it, my code works exactly how it should now",Confident
-I'm confident I can explain algorithms and complexity to someone else now.,Confident
-"Not gonna lie, the exam material is putting me to sleep for homework.",Bored
-Now I'm curious how this loop connects to what we learned before.,Curious
-I don't feel motivated to keep going through this loop right now.,Bored
-"that part about the coding assignment was surprisingly interesting, more please",Curious
-I've got a good grip on this loop in today's lecture.,Confident
-"at my limit with machine learning basics, ive tried literally everything",Frustrated
-"why is machine learning basics so dry, i can barely stay awake",Bored
-"Pretty sure I nailed this chemistry equation while revising my draft, feeling good about it.",Confident
-"I keep getting mixed up on this physics problem set, it's unclear.",Confused
-Is there a reason the group project plan works this way? I want to understand the why.,Curious
-someone explain this formula pls im so confused,Confused
-Can someone explain recursion? I have no idea what's going on.,Confused
-I can't bring myself to care about this Python error today.,Bored
-Feels great knowing I can handle this Python error on my own now.,Confident
-Can someone explain this physics problem set? I have no idea what's going on.,Confused
-"what would happen if we pushed this API further, curious to see",Curious
-"yesss got the lecture notes working, feeling good",Confident
-I've spent hours on the reading assignment and I'm no closer to solving it.,Frustrated
-I walked through machine learning basics step by step and it clicked.,Confident
-keep hitting the same error with this API ugh,Frustrated
-"Meh, this chemistry equation again... I've done this a hundred times.",Bored
-I'm out of patience with statistics homework at this point.,Frustrated
-smh recursion is dragging on forever,Bored
-I feel solid going into the next part of data structures.,Confident
-"ooh wait thats interesting, how does algorithms and complexity actually work under the hood?",Curious
-took a while but i totally get the biology diagram now,Confident
-"what would happen if we pushed the assignment instructions further, curious to see",Curious
-wait what?? this physics problem set makes zero sense to me,Confused
-I feel solid going into the next part of the coding assignment.,Confident
-I walked through photosynthesis step by step and it clicked.,Confident
-This part of photosynthesis just doesn't add up to me.,Confused
-"this French verb tense is just... nothing new, kinda bored",Bored
-"binary search feels like it's going nowhere, I've lost interest.",Bored
-"nailed it, the exam material works exactly how it should now",Confident
-"that part about this calculus problem was surprisingly interesting, more please",Curious
-"this Python error is just... nothing new, kinda bored",Bored
-Can someone explain the presentation slides? I have no idea what's going on.,Confused
-I've reread this Python error three times and I'm still confused.,Confused
-Everything about statistics homework feels flat and uninteresting right now.,Bored
-skimming through the biology diagram bc its so uninteresting,Bored
-"why is this grammar rule so dry, i can barely stay awake",Bored
-"Not gonna lie, the essay outline is putting me to sleep again.",Bored
-"This part of the biology diagram got me thinking, what else is related to it?",Curious
-took a while but i totally get thermodynamics now,Confident
-My brain just blanks every time I look at linear algebra.,Confused
-"Meh, the group project plan again... I've done this a hundred times.",Bored
-"why does this API even work like that, genuinely curious",Curious
-"I thought I understood this economics concept, but now I'm totally stuck.",Confused
-idk what im even looking at with the group project plan,Confused
-I've tried everything and this formula still isn't working.,Frustrated
-"None of this makes sense, especially this proof.",Confused
-"ooh wait thats interesting, how does the essay outline actually work under the hood?",Curious
-"I'd love to explore this proof further, it's more fascinating than I expected.",Curious
-"why wont this lab report just work already, im so over it",Frustrated
-wait what?? SQL joins makes zero sense to me,Confused
-My brain just blanks every time I look at this grammar rule.,Confused
-Now I'm curious how this formula connects to what we learned before.,Curious
-"the research paper thesis feels like it's going nowhere, I've lost interest.",Bored
-"I actually understand the research paper thesis now, this makes sense.",Confident
-I keep hitting the same wall with SQL joins and I'm over it.,Frustrated
-zoned out like 3 times reading about this French verb tense,Bored
-not even a little interested in SQL joins tbh,Bored
-"so done with the biology diagram, nothing is working no matter what",Frustrated
-I keep wanting to ask more questions about the lecture notes.,Curious
-"why does the presentation slides even work like that, genuinely curious",Curious
-"ooh wait thats interesting, how does my code actually work under the hood?",Curious
-I've been staring at this lab report before the exam and I just can't focus anymore.,Bored
-"so done with the exam material, nothing is working no matter what",Frustrated
-"This made me wonder about the history reading, can you explain more?",Curious
-I keep checking the clock instead of working on this loop.,Bored
-"at my limit with my code, ive tried literally everything",Frustrated
-"the presentation slides finally makes sense, i got this",Confident
-"nailed it, this proof works exactly how it should now",Confident
-i keep drifting off thinking about literally anything else during SQL joins,Bored
-cant tell whats going on with the exam material at all,Confused
-took a while but i totally get this economics concept now,Confident
-"brain totally blanking on my code, whats going on",Confused
-"that part about this proof was surprisingly interesting, more please",Curious
-now i wanna go down a rabbit hole on this loop,Curious
-cant tell whats going on with this calculus problem at all,Confused
-"solid on the lecture notes now, ready for whatevers next",Confident
-"What happens if we tweak this French verb tense a little, would it change things?",Curious
-this Python error just isn't cooperating no matter what I try before the deadline.,Frustrated
-smh the reading assignment is dragging on forever,Bored
-I've spent hours on the coding assignment and I'm no closer to solving it.,Frustrated
-I've tried everything and the research paper thesis still isn't working for the group project.,Frustrated
-pretty sure i can handle SQL joins no problem now,Confident
-"ooh wait thats interesting, how does machine learning basics actually work under the hood?",Curious
-"never thought about the presentation slides like that, want to learn more",Curious
-"This is dragging on forever, this API just isn't interesting to me.",Bored
-"I keep getting mixed up on this calculus problem, it's unclear.",Confused
-pretty sure i can handle the group project plan no problem now,Confident
-Can someone explain this API? I have no idea what's going on.,Confused
-"Not gonna lie, the assignment instructions is putting me to sleep right now.",Bored
-"solid on the coding assignment now, ready for whatevers next",Confident
-took a while but i totally get this calculus problem now,Confident
-smh the group project plan is dragging on forever,Bored
-"literally about to give up on the lecture notes, im exhausted",Frustrated
-so is this French verb tense used in real projects or just theory,Curious
-"literally about to give up on the research paper thesis, im exhausted",Frustrated
-"Finally cracked the exam material, I know exactly what I'm doing.",Confident
-"ooh wait thats interesting, how does the assignment instructions actually work under the hood?",Curious
-"I'm just going through the motions with photosynthesis, not really engaged.",Bored
-"ugh the coding assignment again, so boring",Bored
-I don't understand binary search at all before the exam.,Confused
-I don't feel motivated to keep going through algorithms and complexity right now.,Bored
-I've got a good grip on this Python error before the deadline.,Confident
-I keep wanting to ask more questions about the group project plan.,Curious
-idk what im even looking at with the assignment instructions,Confused
-Feels great knowing I can handle the assignment instructions on my own now.,Confident
-"I'm intrigued by the presentation slides, is there a real-world example?",Curious
-this photosynthesis lecture is a snoozefest,Bored
-I'm out of patience with the presentation slides at this point.,Frustrated
-this loop is being so difficult for no reason,Frustrated
-im actually feeling good about this economics concept for once,Confident
-I keep wanting to ask more questions about this French verb tense.,Curious
-someone explain this calculus problem pls im so confused,Confused
-I'm not sure what the question is even asking about statistics homework.,Confused
-"what would happen if we pushed this API further, curious to see",Curious
-is there a cool real world use case for data structures?,Curious
-"None of this makes sense, especially the group project plan.",Confused
-"I'm just going through the motions with this Python error, not really engaged.",Bored
-Can someone explain this calculus problem? I have no idea what's going on.,Confused
-this this loop lecture is a snoozefest,Bored
-"why is this formula so dry, i can barely stay awake",Bored
-"that part about this economics concept was surprisingly interesting, more please",Curious
-im actually feeling good about this formula for once,Confident
-"ugh the research paper thesis again, so boring",Bored
-took a while but i totally get this calculus problem now,Confident
-"im not even worried about SQL joins anymore, got it down",Confident
-Feels great knowing I can handle machine learning basics on my own now.,Confident
-I keep wanting to ask more questions about this French verb tense.,Curious
-I feel solid going into the next part of linear algebra.,Confident
-"Meh, my code again... I've done this a hundred times.",Bored
-"this got me thinking about this French verb tense, wanna know more",Curious
-"im losing my mind over data structures, nothing helps",Frustrated
-"I'd love to explore the biology diagram further, it's more fascinating than I expected.",Curious
-I'm not sure what the question is even asking about the exam material.,Confused
-I'm not sure what the question is even asking about the biology diagram.,Confused
-"this got me thinking about object-oriented programming, wanna know more",Curious
-so is this lab report used in real projects or just theory,Curious
-"I thought I understood the essay outline, but now I'm totally stuck.",Confused
-keep hitting the same error with the biology diagram ugh,Frustrated
-is there a cool real world use case for machine learning basics?,Curious
-I double-checked my work on recursion and it all adds up.,Confident
-ive redone the exam material like 5 times and still broken,Frustrated
-i keep drifting off thinking about literally anything else during this French verb tense,Bored
-Can someone explain photosynthesis? I have no idea what's going on.,Confused
-"huh, i dont get the essay outline at all",Confused
-I double-checked my work on the essay outline and it all adds up.,Confident
-why does this chemistry equation keep failing every single time i try,Frustrated
-the assignment instructions is a total blur to me right now,Confused
-"im mixing up this French verb tense with something else i think, so unclear",Confused
-cant tell whats going on with the lecture notes at all,Confused
-is there a cool real world use case for the assignment instructions?,Curious
-"so frustrated rn, statistics homework just wont cooperate",Frustrated
-"no more stress over this API, i know what im doing",Confident
-"Nothing I try fixes this formula, I'm getting really frustrated.",Frustrated
-"ooh wait thats interesting, how does photosynthesis actually work under the hood?",Curious
-"Wait, I'm lost — how does recursion even work?",Confused
-"brain totally blanking on the research paper thesis, whats going on",Confused
-took a while but i totally get SQL joins now,Confident
-I keep hitting the same wall with linear algebra and I'm over it.,Frustrated
-"im so lost with photosynthesis rn, nothing is clicking",Confused
-i keep drifting off thinking about literally anything else during this grammar rule,Bored
-"the reading assignment feels like it's going nowhere, I've lost interest.",Bored
-"im mixing up the lecture notes with something else i think, so unclear",Confused
-yawn... statistics homework is not holding my attention today,Bored
-I've been staring at this lab report while revising my draft and I just can't focus anymore.,Bored
-i keep drifting off thinking about literally anything else during object-oriented programming,Bored
-this lab report is being so difficult for no reason,Frustrated
-My brain just blanks every time I look at the research paper thesis.,Confused
-cant tell whats going on with the assignment instructions at all,Confused
-"im not even worried about the presentation slides anymore, got it down",Confident
-not even a little interested in this proof tbh,Bored
-I think I've finally got the hang of the research paper thesis!,Confident
-I've reread algorithms and complexity three times and I'm still confused.,Confused
-"this calculus problem isn't clicking for me, what am I missing?",Confused
-omg i think i finally figured out this calculus problem!!,Confident
-Something about this calculus problem isn't making sense and I can't pinpoint why.,Confused
-I keep hitting the same wall with this economics concept and I'm over it.,Frustrated
-Everything about this chemistry equation feels flat and uninteresting right now.,Bored
-"at my limit with the essay outline, ive tried literally everything",Frustrated
-I redo this proof again and again and it still doesn't work.,Frustrated
-skimming through machine learning basics bc its so uninteresting,Bored
-"why is this chemistry equation so dry, i can barely stay awake",Bored
-I'm confident I can explain the research paper thesis to someone else now.,Confident
-"nailed it, binary search works exactly how it should now",Confident
-"at my limit with this loop, ive tried literally everything",Frustrated
-This error in the research paper thesis is driving me crazy.,Frustrated
-"This is dragging on forever, this chemistry equation just isn't interesting to me.",Bored
-I've reread my code three times and I'm still confused.,Confused
-I can't bring myself to care about the history reading today.,Bored
-the lecture notes is being so difficult for no reason,Frustrated
-"literally about to give up on binary search, im exhausted",Frustrated
-"at my limit with the group project plan, ive tried literally everything",Frustrated
-"This is so annoying, the presentation slides keeps breaking no matter what I do.",Frustrated
-I think I've finally got the hang of photosynthesis!,Confident
-"im not even worried about this API anymore, got it down",Confident
-I think I've finally got the hang of the presentation slides!,Confident
-I've tried everything and statistics homework still isn't working for the group project.,Frustrated
-wait so how is this chemistry equation related to the other stuff we learned,Curious
-Is there a reason statistics homework works this way? I want to understand the why.,Curious
-"I want to dig deeper into the coding assignment, there's more to it I think.",Curious
-"just aced a practice question on SQL joins, feeling great",Confident
-"yesss got photosynthesis working, feeling good",Confident
-"so done with the lecture notes, nothing is working no matter what",Frustrated
-the coding assignment is just not making sense no matter how many times i read it,Confused
-skimming through the reading assignment bc its so uninteresting,Bored
-I'm out of patience with thermodynamics at this point.,Frustrated
-I've tried everything and statistics homework still isn't working while studying alone.,Frustrated
-pretty sure i can handle the presentation slides no problem now,Confident
-I'm not sure what the question is even asking about data structures.,Confused
-"this calculus problem finally makes sense, i got this",Confident
-"this got me thinking about this calculus problem, wanna know more",Curious
-the reading assignment clicked for me and now im flying through it,Confident
-"at my limit with the reading assignment, ive tried literally everything",Frustrated
-"Meh, the history reading again... I've done this a hundred times.",Bored
-I wonder how object-oriented programming would apply outside of class.,Curious
-"I keep getting mixed up on the history reading, it's unclear.",Confused
-"this got me thinking about this calculus problem, wanna know more",Curious
-"This part of this proof used to trip me up, but not anymore.",Confident
-why does this formula feel like a different language,Confused
-"kinda curious now, is there more to SQL joins than what we covered?",Curious
-I'm stuck on photosynthesis and it's making me want to give up.,Frustrated
-"solid on object-oriented programming now, ready for whatevers next",Confident
-"ugh the biology diagram again, so boring",Bored
-yawn... object-oriented programming is not holding my attention today,Bored
-"This is so annoying, this Python error keeps breaking no matter what I do.",Frustrated
-Why does linear algebra keep going wrong every single time?,Frustrated
-I've tried everything and linear algebra still isn't working while revising my draft.,Frustrated
-"cant focus on the exam material at all rn, so dull",Bored
-I keep checking the clock instead of working on this Python error.,Bored
-Is there a reason algorithms and complexity works this way? I want to understand the why.,Curious
-Everything about data structures feels flat and uninteresting right now.,Bored
-Something about linear algebra isn't making sense and I can't pinpoint why.,Confused
-why does the history reading keep failing every single time i try,Frustrated
-"Wait, that's actually interesting — how does this economics concept really work?",Curious
-wait so how is machine learning basics related to the other stuff we learned,Curious
-"I actually understand this French verb tense now, this makes sense.",Confident
-I keep hitting the same wall with the reading assignment and I'm over it.,Frustrated
-cant tell whats going on with linear algebra at all,Confused
-not even a little interested in the coding assignment tbh,Bored
-"meh another this Python error, we already know this stuff",Bored
-is there a cool real world use case for this grammar rule?,Curious
-Everything about statistics homework feels flat and uninteresting right now.,Bored
-"im losing my mind over this French verb tense, nothing helps",Frustrated
-ive redone this physics problem set like 5 times and still broken,Frustrated
-"meh another the lecture notes, we already know this stuff",Bored
-"I thought I understood this proof, but now I'm totally stuck.",Confused
-"Meh, machine learning basics again... I've done this a hundred times.",Bored
-Feels great knowing I can handle the reading assignment on my own now.,Confident
-"solid on the presentation slides now, ready for whatevers next",Confident
-"Pretty sure I nailed this French verb tense right now, feeling good about it.",Confident
-"why wont this API just work already, im so over it",Frustrated
-Can someone explain the history reading? I have no idea what's going on.,Confused
-"I'm intrigued by this economics concept, is there a real-world example?",Curious
-"this is so annoying, statistics homework keeps breaking on me",Frustrated
-I feel solid going into the next part of this loop.,Confident
-"I want to dig deeper into this formula, there's more to it I think.",Curious
-"I'm intrigued by the reading assignment, is there a real-world example?",Curious
-"why does this formula even work like that, genuinely curious",Curious
-I'm out of patience with the group project plan at this point.,Frustrated
-idk what im even looking at with the coding assignment,Confused
-wait what?? this physics problem set makes zero sense to me,Confused
-"im mixing up linear algebra with something else i think, so unclear",Confused
-"I actually understand the biology diagram now, this makes sense.",Confident
-I've reread this physics problem set three times and I'm still confused.,Confused
-"this got me thinking about this formula, wanna know more",Curious
-"Not gonna lie, photosynthesis is putting me to sleep again.",Bored
-This error in this French verb tense is driving me crazy.,Frustrated
-wait what?? the group project plan makes zero sense to me,Confused
-I'm out of patience with this loop at this point.,Frustrated
-wait what?? binary search makes zero sense to me,Confused
-"Something about this economics concept sparked my interest, tell me more.",Curious
-"this chemistry equation isn't clicking for me, what am I missing?",Confused
-cant tell whats going on with this chemistry equation at all,Confused
-"why does this French verb tense even work like that, genuinely curious",Curious
-I'm stuck on this lab report and it's making me want to give up.,Frustrated
-the group project plan clicked for me and now im flying through it,Confident
-"my code feels like it's going nowhere, I've lost interest.",Bored
-took a while but i totally get this loop now,Confident
-"this is so annoying, my code keeps breaking on me",Frustrated
-"This part of this lab report used to trip me up, but not anymore.",Confident
-"I'm just going through the motions with this physics problem set, not really engaged.",Bored
-"this is so annoying, this lab report keeps breaking on me",Frustrated
-This error in the exam material is driving me crazy.,Frustrated
-"object-oriented programming finally makes sense, i got this",Confident
-Now I'm curious how the presentation slides connects to what we learned before.,Curious
-i keep drifting off thinking about literally anything else during this proof,Bored
-"I'm intrigued by data structures, is there a real-world example?",Curious
-I don't understand algorithms and complexity at all for the group project.,Confused
-This error in the exam material is driving me crazy.,Frustrated
-I can't bring myself to care about binary search today.,Bored
-"ugh photosynthesis again, so boring",Bored
-Now I'm curious how my code connects to what we learned before.,Curious
-not even a little interested in this chemistry equation tbh,Bored
+That's a great comparison,Confident
+Your teacher was pretty cool for calling you snoopydog,Confident
+This is genius,Confident
+"Arrow already did break this trend by having a mostly excellent S5, definitely much better than S3 and S4.",Confident
+My face is so round so I don’t even know what male haircut to get :(,Confused
+"Because it was a cool video it was sweet, and because it was a fash it was bitter. Simple as that.",Confident
+What are you expecting?,Curious
+"the coding assignment feels like it's going nowhere, I've lost interest.",Bored
+"That's interesting. As an orthodox [NAME], I woulda either kept using the offending term or avoided the name altogether as you suggest.",Curious
+I like you. WHO WANTS TO TAKE CELEBRATORY SHOTS WITH ME???,Curious
+Stop following me around you one hour old troll account.,Frustrated
+"Goldfish are awesome pets, they are cheaper to replace than they are to feed! :D",Confident
+Oh this is a brilliant idea!,Confident
+I have so many questions...,Confused
+Great start to the post-All-Star game part of the campaign!,Confident
+Does it have less scope glint than the 3x medium range scope? Or any glint at all?,Confused
+What do you mean if it's controlled?,Confused
+How do you feel that other drivers know your next move?,Curious
 "why is this economics concept so dry, i can barely stay awake",Bored
-"hmm what if we changed something in the essay outline, would that break it?",Curious
-took a while but i totally get the exam material now,Confident
-"I'm so close to giving up on this lab report, it's exhausting.",Frustrated
-this physics problem set is being so difficult for no reason,Frustrated
-why does this economics concept feel like a different language,Confused
-Can someone explain the exam material? I have no idea what's going on.,Confused
-why does the presentation slides keep failing every single time i try,Frustrated
-"Pretty sure I nailed the presentation slides during lab, feeling good about it.",Confident
-"yesss got object-oriented programming working, feeling good",Confident
-Something about algorithms and complexity isn't making sense and I can't pinpoint why.,Confused
-"ugh linear algebra again, so boring",Bored
-idk what im even looking at with this physics problem set,Confused
-keep hitting the same error with the exam material ugh,Frustrated
-"im not even worried about the lecture notes anymore, got it down",Confident
-"the history reading isn't clicking for me, what am I missing?",Confused
-"hmm what if we changed something in the lecture notes, would that break it?",Curious
-"why does my code even work like that, genuinely curious",Curious
-"kinda curious now, is there more to this API than what we covered?",Curious
-"Honestly this API feels so repetitive, I keep zoning out.",Bored
-why does SQL joins keep failing every single time i try,Frustrated
-"Meh, this proof again... I've done this a hundred times.",Bored
-i keep drifting off thinking about literally anything else during the coding assignment,Bored
-"This is so annoying, this Python error keeps breaking no matter what I do.",Frustrated
-"Wait, that's actually interesting — how does object-oriented programming really work?",Curious
-"im so lost with data structures rn, nothing is clicking",Confused
-"This is dragging on forever, the coding assignment just isn't interesting to me.",Bored
-I've got a good grip on the history reading before the exam.,Confident
-"This made me wonder about this Python error, can you explain more?",Curious
-pretty sure i can handle machine learning basics no problem now,Confident
-"Not gonna lie, the research paper thesis is putting me to sleep for homework.",Bored
-"that part about object-oriented programming was surprisingly interesting, more please",Curious
-"just aced a practice question on this loop, feeling great",Confident
-I'm stuck on the coding assignment and it's making me want to give up.,Frustrated
-"Honestly this loop feels so repetitive, I keep zoning out.",Bored
-"so frustrated rn, this loop just wont cooperate",Frustrated
-Now I'm curious how this French verb tense connects to what we learned before.,Curious
-photosynthesis just isn't cooperating no matter what I try while studying alone.,Frustrated
-"huh, i dont get this calculus problem at all",Confused
-"huh, i dont get this economics concept at all",Confused
-"I'm intrigued by photosynthesis, is there a real-world example?",Curious
-I redo the exam material again and again and it still doesn't work.,Frustrated
-"that part about photosynthesis was surprisingly interesting, more please",Curious
-"kinda curious now, is there more to my code than what we covered?",Curious
+Can you please update me! I'm in the exact position! 24FHL with 21MLL,Curious
+"Same old stuff with the presentation slides, nothing new is grabbing my attention.",Bored
+"why is thermodynamics so dry, i can barely stay awake",Bored
+My biggest question is: who is [NAME]? Also: who are the [NAME]? Also: who is [NAME]?,Confused
+"this formula feels like it's going nowhere, I've lost interest.",Bored
+My DVR did the same thing as yours Damn them.,Frustrated
+Nice try..Hulu exec.,Confident
+I keep checking the clock instead of working on the lecture notes.,Bored
+So what happened is she tried to rape you,Curious
+I dont think it will happen cuz he will probs just stay in GS or go LA with/ against [NAME] but I do think he should look into it.,Confused
+"machine learning basics is just... nothing new, kinda bored",Bored
+Everything about the lecture notes feels flat and uninteresting right now.,Bored
+"One of the most reasonable comments I've ever read on the site (sad, right?). Salute to you",Confident
+[NAME] makes me want to punch ugly pillows.,Frustrated
+RNG-based access to very important mechanics is frustrating for some people.,Frustrated
+You made eye contact. Or flinched. Or were just alive and walking down the street.,Curious
+in away that smarter than the average six year old,Confident
+is the entire cast at least on there and not cut off at the bottom like the other pic I saw here?,Confused
+What a totally innocent and integral part of our society! So glad our tax money can keep him company over his year long holiday!,Confident
+Yeah I doubt the woman would post about it whilst still in his bed. She'd wait until she was dumped then complain about it at least.,Confused
+How is 5th starter not a question?,Curious
+"I also got this on a different account, but I have no clue why! Does anyone know?",Confused
+"This is dragging on forever, recursion just isn't interesting to me.",Bored
+I mean New Orleans is really fun even with little to no drinking. I wouldn't want to live anywhere else.,Confident
+I've been staring at the presentation slides for homework and I just can't focus anymore.,Bored
+"cant focus on the history reading at all rn, so dull",Bored
+Damn that is sexy,Confident
+"Oh, I'm dying to know if you noticed any reaction from him!",Curious
+"I actually got one of those, really fucking good tbh",Confident
+You’re an amazingly helpful man. All the rumours about you are false.,Confident
+Why was everyone so happy when he pulled that knife,Curious
+How to get badly injured in a room full of foam.,Curious
+Because it's fun?,Confused
+Do you regularly go around calling people a know-it-all when they've generously provided you with specific information you've demanded?,Curious
+Women don't have penises so cannot rape by the legal definition of the word. They can sexually assault however.,Frustrated
+You serious?,Confused
+"I feel left out cuz I don’t get this, can someone explain",Confused
+Is it actually happening?,Confused
+"cant focus on this chemistry equation at all rn, so dull",Bored
+What's the Pi IPcam you set up? Link? Sounds interesting.,Confident
+I had no idea. Is this recent?,Confused
+"Honestly SQL joins feels so repetitive, I keep zoning out.",Bored
+this linear algebra lecture is a snoozefest,Bored
+I don’t know why they bother with it.,Confused
+Do you have the voting link? I went on the NHL website but I didn't see anything.,Confused
+"sorry for the dumb question, but where do the pagers get their signal from? Are there still emitter around or do cellphone towers this job now?",Confused
+And then there was the on who grabbed mom’s breast and tried shoving ot onto the ba y’s mouth.,Frustrated
+"I'm just tired of feeling the same way everyday it's really grinding me down, that sucks about your summer school.",Frustrated
+i keep drifting off thinking about literally anything else during this calculus problem,Bored
+"Their album is awesome, too.",Confident
+Society sucks. I don't even consider myself a part of society.,Frustrated
+Would u rather the food go into the bin or be eaten by birds?,Confused
+I'm starting to think you're just an idiot.,Frustrated
+"Shrug, ndp is still going to lose. I don’t really care how many there are.",Frustrated
+So what did she mean to say? I’m so confused...,Confused
+this is good. well done.,Confident
+I've been staring at thermodynamics for homework and I just can't focus anymore.,Bored
+You mean the millions of college grads living with their parents?,Confused
+Why am I seeing this everywhere now? This wasn't in my vocabulary last week.,Confused
+"This is a long shot here, but do you think we could eventually edit genes to produce longer life spans? Or maybe to stay younger for awhile?",Curious
+That was what our media guys said but he is now 1/3 in the shootout (was 1/2). No clue how they butchered that one so badly.,Confused
+"Considering how beautiful every single person is, there is far too much ugliness on Earth.",Confident
+"""That's because it's called LATCH here and most people just call them """"car seat anchors"""". Maybe that's why...""",Confused
+">If you can’t recognize bad acting like [NAME] emotional scenes, Oh please. Why are you even on this sub? Lol",Frustrated
+"ugh the lecture notes again, so boring",Bored
+i keep drifting off thinking about literally anything else during the history reading,Bored
+"It's not funny, but what do you mean?",Curious
+What's it matter?!?!,Curious
+"meh another this API, we already know this stuff",Bored
+Everything about SQL joins feels flat and uninteresting right now.,Bored
+"This is dragging on forever, the research paper thesis just isn't interesting to me.",Bored
+North end pizzeria! Best pizza in town,Confident
+"What, do you disagree that that freak can in fact buy a megaphone?",Curious
+"It’s so weird, I think it’s like excited/stressed?",Curious
+I can't bring myself to care about this economics concept today.,Bored
+No means no? What does that mean between she and I though? When she's doing someone else,Curious
+What did he say?,Curious
+Everyone’s ageing on here like the milk my flatmate left on the kitchen counter over the holidays,Frustrated
+I keep checking the clock instead of working on this Python error.,Bored
+Would someone even be able to pursue a diagnosis for type 2 if they already suffer from type 1?,Curious
+redemption island? I'm not judging if you like it just curious,Curious
+"Meh, the assignment instructions again... I've done this a hundred times.",Bored
+i assume there will be a ring involved in this movie like his other 2 most recent films?,Curious
+why are you a detective all of a sudden,Confused
+I keep checking the clock instead of working on the exam material.,Bored
+Great snap. Try again in a week when the lights are on at the aus open.,Confident
+Damn hippies.,Frustrated
+"You know more liberals want more gun control than regular [NAME] do, right?",Frustrated
+"my code is just... nothing new, kinda bored",Bored
+"Ah, maybe the YouTube sound or phone sound. I don't know if it can tell when I turn off my desktop speakers",Confused
+i love the crocheted romper look and i don't care if i'm wrong,Confident
+I suppose it is quite frustrating to have someone telling you the sky isn't blue,Frustrated
+"this grammar rule is just... nothing new, kinda bored",Bored
+No fuck that guy. I'm actually relived he was shot. Sounds like a sack of human garbage,Frustrated
+I just looked that up... Dear [NAME] why?,Curious
+"After awhile I didn’t see anything, just emptiness. Is this article online somewhere? Would very much like to give it a read.",Curious
+love em or hate em I think we can all agree that was blatant PI,Confused
+I work from home but I still get up early for me time. House is nice and quiet at 6am.,Confident
+Good for [NAME]. He deserves it.,Confident
+"I agree with everything. Yet, society and its stupid outdated, conservative norms see it otherwise.",Frustrated
+I’m curious as to how many people they’re going to interview for the OC job. Maybe 2-3?,Curious
+I don't understand the infatuation with modern ones. Everything made before the Murciélago is where it's at.,Confused
+[NAME] and [NAME]? High five on the cheers tho,Curious
+">You wrote a lot of words, and I don't really understand the context. This is a pretty succinct description of competitive debate.",Confused
+Amazing. You will defend [NAME] no matter what huh?,Confident
+So if the 4 wheels are locked I guess,Confused
+"I don’t know but I think they at least have foil inside, I remember seeing you could hack one into an antenna.",Confused
+"Hey, it's good of you to do this, she may be sad but in the end it will be better for her. Proud of you!",Confident
+[NAME]: I have a plan. Me: You’ve always got a damn plan ̶D̶u̶t̶c̶h̶ [NAME].,Frustrated
+yawn... this physics problem set is not holding my attention today,Bored
+zoned out like 3 times reading about the exam material,Bored
+[NAME] is such a wholesome woman. The world needs more people like her.,Confident
+Is it weird that I read this with Papa [NAME] voice,Confused
+Any broncos fans out there that care to weigh in on this? Interested to hear your thoughts,Curious
+"""If I hear """"not sorry, [NAME]"""" one more time, I'm going to start disliking [NAME]""",Frustrated
+"I understand that there are issues. However, if someone chose to stay away from Perth due to the violent behaviour then where would they go on holiday?",Confused
+Yelling anger sorrow. Not that funny to me.,Frustrated
+what a stupid opinion,Frustrated
+Who will rid me of these meddlesome Golden Knights?,Frustrated
+What a baby...,Confident
+I can't bring myself to care about machine learning basics today.,Bored
+[NAME] damn hippies,Frustrated
+Pretty,Confident
+"Which is bizarre because [NAME] actually dubbed those scenes back in the day, but they apparently never used them ever.",Confused
+"Wait, you don't love reading people's blog posts on Reddit?",Curious
+"this loop is just... nothing new, kinda bored",Bored
+You have your opinion and I have mine why does that make only one of us a victim?,Curious
+Oh sweet! From their website I wasn't sure what age group it was geared toward.,Confused
+no clip as an example to backup your claims?,Confused
+The first article on their is talking about the [NAME] documentary...? E - there*. What the hell is my phone doing,Frustrated
+I'm impressed you found a non troll post of theirs.,Confident
+I don't feel motivated to keep going through the essay outline right now.,Bored
+I came here for this. You and your fancy teeth filled with toxic PFAS can bite me!,Frustrated
+"This is very deceptive. If you haven't read it, this article is great! The Deceptive Income of Physicians",Confident
+Juul is heavy vapor. Idk how to describe it but i didnt feel like that when i used other juices,Confused
+holy crap that's messed up.,Frustrated
+"I mean, yeah, I'd complain a little. But then I'd eat the crap outta that.",Frustrated
+skimming through this lab report bc its so uninteresting,Bored
+Happens to me sometimes too in certain scenarios. Its frustrating especially when you're banking on it deflecting something.,Frustrated
+"Stop master debating, you are making a fool out of yourself. It's concerning.",Frustrated
+"this French verb tense is just... nothing new, kinda bored",Bored
+"Yup, it was a complete waste of time.",Frustrated
+i keep drifting off thinking about literally anything else during photosynthesis,Bored
+Nice try Mommy shark,Confident
+blocking [NAME] run ? Very bad,Curious
+"i don';t know about that, it's probably aliens.",Confused
+yawn... this loop is not holding my attention today,Bored
+3 under 3?! You are a true hero.,Confident
+"Sounds racist, fetishistic, sexist, and objectifying.",Frustrated
+What is TMOR?,Curious
+"I'm confused on the hov +2 part, does that mean that's price if you split the bill?",Confused
+"Excellent, I was wondering about [NAME] the moron recently.",Confident
+I've edited my comment. Still a shitty game.,Frustrated
+I've been staring at data structures while studying alone and I just can't focus anymore.,Bored
+You're really just having a field day today huh?,Curious
+"I see, good one.",Confident
+That's reasonable and pretty inexpensive for a 75 mile round trip.,Confident
+That was brilliant 😂,Confident
+OMG if the [NAME] and [NAME] run... I'll have the worst of time deciding who to vote for!,Confused
+You made yourself useless playing their game instead of forcing them to play to your strengths,Frustrated
+I met up with a woman who was 49. She reminded me of being old. That isn't attractive. Youth makes you feel alive.,Frustrated
+no your are disrespectful at least i pay my respects,Frustrated
+Because then if the wife gets pregnant it becomes difficult to find out which husband she is pregnant with,Confused
+skimming through algorithms and complexity bc its so uninteresting,Bored
+That's what you get for not washing your mouth for months.,Frustrated
+Why is everyone smoking out of straws and shit?!,Frustrated
+Take some time to ponder why you fancy yourself intelligent when you revel in pedantry and can't even understand such a simple point.,Frustrated
+So what? I was being facetious. Though I will admit is a low hanging fruit and pretty cringy.,Confused
+"Same old stuff with photosynthesis, nothing new is grabbing my attention.",Bored
+The UK having disdain for Ireland or Irish people isn’t exactly new.,Frustrated
+I keep checking the clock instead of working on the reading assignment.,Bored
+This video was close to being the most famous video in history,Confident
+"""And the shit like """"like for [NAME], Ignore for satan""""""",Frustrated
+I keep checking the clock instead of working on this proof.,Bored
+So do you think the court ruling to release the money to them is fake or something?,Curious
+What ocean are you on? Around these parts they are kind of barren.,Curious
+You are sexy af,Confident
+"Oh, I see what you did... Trying to confuse me.",Confused
+I'm not a miner. I'm not a service but I run a full node for experimentation and learning. Do I help or hurt decentralization?,Curious
+Why the downvotes?,Curious
+"""very wise, your flair reminds me of the quote """"There can be no true despair without hope.""""""",Confident
+Hmm.. I means what's the point.. there's not gonna be much difference since both of em aren't doing good.,Frustrated
+When I think about [NAME] and [NAME] at the same time I get a fucking aneurysm from the stupidity.,Frustrated
+this this proof lecture is a snoozefest,Bored
+"Also, the phone is set to another language than the one being spoken, which is a bit weird.",Frustrated
+"Not gonna lie, this Python error is putting me to sleep again.",Bored
+"That’s cheating, gotta make a decision",Frustrated
+is that [NAME] fucking [NAME],Curious
+This is my favorite reddit conversation I’ve seen in a while,Confident
+Everything about linear algebra feels flat and uninteresting right now.,Bored
+I'm curious as to how to explain this to a young child? I will like I flounder at this.,Curious
+"It’s lunacy to think that [NAME] is an actual Russian agent, since there’s literally no evidence of this.",Frustrated
+Why am I crying alone in my room rn,Confused
+The A.I. conundrum. What will the robot drivers choose?,Curious
+"Same old stuff with thermodynamics, nothing new is grabbing my attention.",Bored
+Oh I got one are you overweight,Curious
+Butterfly is cute... it’s the dreds that are gross,Confident
+ah i was also confused but i think they mean friends around the same age,Confused
+"""""""Reasonable"""" and """"unreasonable"""" have been asigned based on who agrees with you. How egotistical. You are still being childish.""",Frustrated
+This shark is so beautiful i thought it was one of those high quality animations,Confident
+I went to your profile to see the other pics & saw your kitty. He's super cute!,Confident
+Who even are you? Get off the Internet little boy. I don't have time for you,Frustrated
+Maybe shes the type of person that can take a slap and move on with her life. Hey sometimes you think to yourself did i deserve that?,Curious
+Ah it's the old one. First I can remember! Of course not the first. Or the last. Hard to keep track at times...,Confused
+You're not kidding about the savage energy part. Just look at this man.,Frustrated
+Today I saved lots and lots of people from being raped by me. Now I really *do* feel created in [NAME] image.,Confident
+"Is that bottom trey filled with beer? If so, how did he acquire them?",Confused
+Am I the only one who thinks these Instagram poses girls do are so freaking cheesy,Confused
+This was the scene that hooked me on the show.,Confident
+This sub doesn’t like the pro sports teams until they win a championship. Then everyone becomes a die hard fan.,Confident
+"I feel like he would be most people in a flat out race, those prosthetics look beastly (in the good way).",Confident
+"Imma let you finish, but Cutthroat Kitchen is one of the best cooking shows of all time.",Confident
+[NAME] x [NAME] sounds cute for some reason.,Confident
+"this Python error feels like it's going nowhere, I've lost interest.",Bored
+skimming through this loop bc its so uninteresting,Bored
+so cute. your art style is adorable. imagine if you made a mini-comic drawing!,Confident
+Weird. It always makes me horny.,Confused
+It maybe possible she doesn't have a lore video to explain though so It may or not maybe true but I believe it is,Confused
+What the actual fuck?,Frustrated
+"meh another the coding assignment, we already know this stuff",Bored
+awful vehicle physics that cause you to instantly die when hitting small bumps and certain angles! WHY!,Frustrated
+"Was anyone on just now, and got booted from the server? It now looks like both servers are down, both are 9999 ping for me.",Curious
+What do they tell you about them?,Curious
+I keep checking the clock instead of working on this calculus problem.,Bored
+Things are much better then they were a few decades ago but we’re still shrinking.,Confident
+"why is the reading assignment so dry, i can barely stay awake",Bored
+I think this would be common amongst musicians. I wonder if it's related to this discovery regarding muscle memory or if it's something else?,Curious
+No wonder why their logo always looks pissed,Frustrated
+why is this guy assuming the teen is some kind of southern pro slavery hick,Confused
+What kind of frankenshoe...,Curious
+zoned out like 3 times reading about the exam material,Bored
+"We’re playing well, except for a 2 minute stretch. As is tradition",Confident
+You live in a wonderful fantasy world where all the students will pretend they are not adolescents with raging hormones. Charming.,Confident
+"What would you do if y'all end up having kids, but break up later? There's no guarantee y'all will be together forever.",Confused
+"Someone you guys are on Grindr just to screenshot your own witty replies to men trying to bang you, don’t deny it.",Frustrated
+Everything about this Python error feels flat and uninteresting right now.,Bored
+my crush began to be annoying when i lost interest in him. it sucks either way,Frustrated
+zoned out like 3 times reading about the history reading,Bored
+I can't bring myself to care about the coding assignment today.,Bored
+How would that fix the problem in this case?,Curious
+That must be it? Or that people buy carbon dioxide as plant food? I'm terrible at science and even I know it's not that simple,Curious
+Not needed position? What team have you been watching?,Curious
+This thread is loaded. Never seen so many coins exchanged at once :) it's nice to see friendly internet interactions.,Confident
+That IS crazy!,Frustrated
+"I saw the one where he was successful, and wondered how many attempts it took.",Curious
+"machine learning basics feels like it's going nowhere, I've lost interest.",Bored
+"Crack whores are hooking in broad daylight now, eh?",Curious
+I used to have a pet rat. She was the best pet I ever had.,Confident
+Wow your post history is toxic.,Confident
+Not possible? Not that I’ve heard of at least.,Confused
+How are you all losing weight post-shelf crashing? I was shoveling ice cream while listening to Year Of Polygamy 😩😭😭😭🍧,Curious
+That's literally insane considering we're talking about [NAME] and [NAME].,Frustrated
+yawn... the essay outline is not holding my attention today,Bored
+i keep drifting off thinking about literally anything else during machine learning basics,Bored
+"I'm just going through the motions with this French verb tense, not really engaged.",Bored
+Do you want to see a picture of my diploma,Curious
+Not so sure. I have a decent body but until I took the time to focus on my posture I was slouching.,Confused
+^ I find both creepy tbh.,Frustrated
+Still not as bad as [NAME] not being able to figure out how to push a god damn button.,Frustrated
+had to google mesosphere. good job.,Confident
+Nope. Don't need rewards at all.,Frustrated
+"Gore magala is my favorite monster in mh4u, you did an amazing job!",Confident
+This is a totally different one right?,Confused
+i keep drifting off thinking about literally anything else during this proof,Bored
+It’s beautiful hun,Confident
+"Okay, but your other comment didn’t even make sense. Wasn’t sure what you were complaining about",Confused
+"Awesome, great to see people coming together for peer to peer cash!",Confident
+"The game felt like an awesome sci-fi TV series, with each mission feeling like a great episode. The pacing of this game was damn near perfect.",Confident
+That was a joke? And a joke you've been waiting to use for 10+ years?,Curious
+"Boy, are you going to cake yourself when you find out what french kissing is",Curious
+Did he actually have anything planned or...,Confused
+Don't endorse violence against people.,Frustrated
+I use 3 different credit unions and all of them are great. Used Wells Fargo for a short while and hated them.,Confident
+Ok but how is that a jerk he’s not pushing anyone off their chair,Confused
+Everything about machine learning basics feels flat and uninteresting right now.,Bored
+Okay... am I the only one curious how in the hell a fourth grader managed to get expelled?,Curious
+That looks like some pretty intense “homework”,Confident
+Anyone else want a TE early? Tired of fucking around with the position even if [NAME] did look pretty mean for a few weeks,Frustrated
+Did she happen to find a magical ring before she drown?,Curious
+"Missed the beginning of the game, cheers or boos for [NAME]? I'm assuming cheers, but you never know in MTL",Confused
+My ecology professor hated outdoor cats for that reason. They're extremely destructive animals.,Frustrated
+"Well, that was dumb.",Frustrated
+"If you’re being contentious, then I have no interest in discussing this. There’s plenty of other threads you can search.",Frustrated
+Idk my brain doesn’t process what I’m watching if I can’t read along at the same time,Confused
+> I guess you don't agree Did *you* read *my* comment properly or just jump to the assumption?,Confused
+I can't bring myself to care about this grammar rule today.,Bored
+"If you're more concerned about a potential person than an actual person, you should get out of medicine. You aren't qualified.",Frustrated
+"I'm just going through the motions with this physics problem set, not really engaged.",Bored
+Best summary of the situation right here.,Confident
+Now I’m curious about their respective heights,Curious
+LOVE THIS!!,Confident
+"ugh object-oriented programming again, so boring",Bored
+"When and where did you go to basic, I never once even saw dessert in the dfac when I went thru",Curious
+We dont want or deserve to win this game. Sloppy sloppy sloppy,Frustrated
+Amazing!! Congrats!,Confident
+And even though it’s only half carbonated at this point it still gives her those weird wet talking burps.,Frustrated
+A drummer's MC is the best MC,Confident
+Pac Med building. Amazon’s headquarters was there once upon a time. Not sure what it is now. Probably medical.,Confused
+Black Mirror is great.,Confident
+I'm not sure I have heard of this. Really interesting.,Confused
+Are u gey,Curious
+I would love to know why you think it's awful advice!,Curious
+I was about to explain that the one with 8 h's was taken until I read your username. Beautiful.,Confident
+Is your teacher [NAME]?,Curious
+"cant focus on this physics problem set at all rn, so dull",Bored
+i actually didnt know that there are people out there using quotation marks for emphasis until that weird [NAME] song,Confused
+"I’m confused because her mom doesn’t post anything bad, especially compared to her photos she took in prison.",Confused
+How did he kill u with kobolds btw?i wanna know how this was done.,Curious
+Damn youtube and outrage drama is super lucrative for reddit,Confident
+yawn... binary search is not holding my attention today,Bored
+I'm not to proud of them right now. I'm mad at them ☹☹ But big ups!!,Frustrated
+"Quite superpower you got there, op. Reminds me of [NAME] in Unbreakable. U beautiful person!",Confident
+zoned out like 3 times reading about this formula,Bored
+Great anime though. [NAME] awesome.,Confident
+"""What am I supposed to understand from the phrase """"1v1 fam, a duel"""".""",Frustrated
+Eyebrow zits are the worst. I'd rather have a lip pimple than an eyebrow pimple. Also part of the fanclub for your eyes.,Frustrated
+"Wait so you can do that infinitely, even with placed campfires?",Confused
+"We did it, finally?! Idk weird timing.",Confused
+As a white man on the internet I'm outraged... because I had to laugh and laughing hurts right now : (,Frustrated
+My mom does this all the time. I've always wondered why she feels the need to do it. Can you tell me why you do it?,Curious
+I keep checking the clock instead of working on the lecture notes.,Bored
+What a great reason to have kids.,Confident
+not even a little interested in statistics homework tbh,Bored
+"""Very well said. I am no fan of pinkers """"everything is awesome"""" narrative of the modern world either.""",Confident
+just asking a question... like I said I haven't been watching other teams much this year so Idk what players values are like right now...,Confused
+You're amazing. I'd buy it :),Confident
+"I don't know who the hell that is, but I will gladly upvote your post because it's not a stupid driving rant.",Confused
+ahh yes a glorious tribute to our Goddess.,Confident
+yawn... data structures is not holding my attention today,Bored
+"Not gonna lie, this formula is putting me to sleep right now.",Bored
+skimming through the lecture notes bc its so uninteresting,Bored
+"meh another the presentation slides, we already know this stuff",Bored
+"I'm just going through the motions with the lecture notes, not really engaged.",Bored
+Recently got this book! I would be interested as well!,Curious
+Is that [NAME]?,Confused
+not even a little interested in the lecture notes tbh,Bored
+"This is dragging on forever, data structures just isn't interesting to me.",Bored
+"the game certainly feels unfinished, at least on PC. some horrible mouse controls, using a controller is almost necessary.",Frustrated
+“No no no no spit that out right now!”,Frustrated
+I can't bring myself to care about this physics problem set today.,Bored
+zoned out like 3 times reading about the exam material,Bored
+Fourth guy had nice hair though tbh,Confident
+I desperately want to believe you but then,Confused
+Is that his thing? (I honestly don't know what his thing is),Confused
+"I go to the same hairdresser as [NAME], and she told me we were interested. Dunno how she got her info though.",Confused
+I don't remember if I've entered,Confused
+This is awesome. nice!,Confident
+I don't feel motivated to keep going through this French verb tense right now.,Bored
+Partywolf had 178 losses in a row? Are you seeious? I can't believe that,Curious
+Did people really go against [NAME] when he came out? I wasn't as in to his stuff at the time but I remember people being supportive.,Confused
+"Where are all the memes about tops ending up with another top? Cause trust me, it sucks just as much, if not more.",Curious
+"Places such as? Is [NAME] proposing we simply upgrade already existing barriers or build new barriers. And if the latter, where specifically?",Confused
+yawn... algorithms and complexity is not holding my attention today,Bored
+r/outoftheloop here; could you explain why this is good? I'm assuming he's a scummy shitlord.,Curious
+this is so niche but i still felt that shit in my bones,Frustrated
+That's some good stuff! What did you think about [NAME]?,Curious
+Can a gang member legally citizen arrest someone 🤔,Curious
+I blame [NAME].,Frustrated
+I don't feel motivated to keep going through this calculus problem right now.,Bored
+I just wanna see the fallout of [NAME] leaving. OH And the [NAME] stuff from yesterday. Pls CBS Plsss!!,Curious
+Is this [NAME] brother??,Curious
+How's the pp looking?,Curious
+"Enough shit comes out of his mouth, do we really need to put more back in?",Curious
+"meh another this lab report, we already know this stuff",Bored
+"I don't think [NAME] is on the cast list for Episode IX, so I doubt Phasma will be coming back again.",Confused
+"The fact their team is stacked makes me hate them, along with [NAME] being a dirty player. Also they are in our division",Frustrated
+zoned out like 3 times reading about data structures,Bored
+"Meh, this loop again... I've done this a hundred times.",Bored
+I see this guy all the time. It has a great vanity plate to boot.,Confident
+Is she dead? She’s dead isn’t she...,Curious
+CBD dog treats. They’ve worked wonders for my dog when it comes to fireworks.,Confident
+No fucking clue,Confused
+Reading on that sub makes me sick.,Frustrated
+My guess? Porn. PIED.,Curious
+"Adults seem to get more huffy than kids, who do go to school on their birthdays.",Frustrated
+"You're a female? Sup girl, how you livin'?",Curious
+"Come on, I want to know how it goes.",Curious
+"cant focus on this formula at all rn, so dull",Bored
+"the essay outline feels like it's going nowhere, I've lost interest.",Bored
+skimming through this economics concept bc its so uninteresting,Bored
+What kind of behaviour is considered unattractive? I'm pretty clueless when it comes to dating.,Confused
+"Wait, what do you mean by NOT tanking? Is that legal?",Curious
+Your sacrifice will be remembered.,Confident
+That would be crazy premature. But would be awesome later when results are out and the stories behind the scenes of the [NAME] team emerges.,Confident
+"We all saw it, my American friend. Now go and fix your government.",Frustrated
+"What is it that we don't know yet about the Rebellion, if you don't mind me asking?",Curious
+He sounds amazing. Congratulations for finding that one!,Confident
+"Honestly the lecture notes feels so repetitive, I keep zoning out.",Bored
+Everything about binary search feels flat and uninteresting right now.,Bored
+Is this my Beetlejuice moment?,Curious
+Fox News is generally not what I would call credible. Any other links?,Curious
+No deal then? Sick of reading about this shite.,Frustrated
+skimming through the biology diagram bc its so uninteresting,Bored
+I am. But I presume you are gonna tell me I'm wrong because it doesn't line up with your experiences - whatever.,Frustrated
+The pistons are aggressively mediocre which sucks. [NAME] has been awesome but the rest of the team is horrid,Confident
+Source? 😂,Curious
+Takes r us...you literally make me want to overdose on drugs. Like you’re that insufferable.,Frustrated
+smh object-oriented programming is dragging on forever,Bored
+I meant mainsource [NAME]. the one that assists you on your journey. >! not the one that is evil as fuck!<,Frustrated
+"Or, orrrrr. All Girls Poop Mindset Only video you need to naturally have confidence when you socialize All Girls",Frustrated
+"Are you not the copycat, for being the thousandth person to do this?",Curious
+Why aren't more men getting married???,Confused
+"This is dragging on forever, this economics concept just isn't interesting to me.",Bored
+"I told you, I don't like ethnic food!",Frustrated
+"I guess when you marry as a virgin, you don't know what you're missing out on.",Confused
+Yeah what a great sport!,Confident
+Why not $1 million per hour muhahahah,Curious
+"Same old stuff with algorithms and complexity, nothing new is grabbing my attention.",Bored
+smh the group project plan is dragging on forever,Bored
+Then how can you say the rest is very red outside of nova when that is blatantly not true?,Confused
+"Sure but what are you basing that off of? If [NAME] is the best jump-ball receiver, wouldn't that make him the best red zone receiver?",Confused
+I still don't get what the joke was supposed to be,Confused
+Everything about this loop feels flat and uninteresting right now.,Bored
+i keep drifting off thinking about literally anything else during the research paper thesis,Bored
+Why would you doubt it dumbass?,Curious
+I came here to say basically the same thing. Too much talent and positional flexibility to have a standard lineup.,Confident
+Grow up.,Frustrated
+Good stuff man. Love the passion.,Confident
+Is it too late?,Confused
+What does the buzz feel like?,Confused
+Congrats to you!! So happy for you! wow socks is sooo nice!,Confident
+"Meh, this lab report again... I've done this a hundred times.",Bored
+Had to upvote just because of how wholesome this comment feels,Curious
+Give her weed to make her asexual and want to have sex with you. Great [NAME] logic.,Confident
+Any advice on if I should keep trying to start up some text conversations or just forget about that stuff for now,Confused
+Not sure if we can call him ginger anymore. That hairline went into a recession that'd put 2009 to shame.,Confused
+"that's weird, I thought we already had too many outfielders? edit: this was a joke.",Confused
+I've been staring at this physics problem set and I just can't focus anymore.,Bored
+Your market sucks,Frustrated
+Voting for someone to tax you to death makes no sense,Frustrated
+"cant focus on this Python error at all rn, so dull",Bored
+You’re a gorgeous bride! :D I love the looks you chose,Confident
+Anyone else feel like [NAME] came dressed as [NAME]?,Curious
+Why so may downvotes?,Curious
+"Wait, australia is like this? I remember carrying a 4 inch sheathed knife as a kid. Nobody batted an eyelid.",Curious
+Y'all ever try to ride a scooter with one hand before? Shit was dangerous.,Curious
+Any chance we could treat the terrorists as terrorists then?,Curious
+"are they clean, though? the chlorine keeps it clean, to my understanding.",Curious
+"Now comes your affiant, [NAME], law school and attorney credentialing expert. I don't understand what's wrong, though. [NAME] passed the bar.",Confused
+"""Never take advice from someone named """"poor judgement"""" """,Frustrated
+"Wow, that landlady sure is a piece of shit. I'd be interested in knowing how many people she has discriminated against or harassed in the past.",Curious
+Maybe server related? I've got 2 cars in a low pop server and they work just fine...,Confused
+"meh another data structures, we already know this stuff",Bored
+"Not gonna lie, this economics concept is putting me to sleep while studying alone.",Bored
+What’s a leppo?,Curious
+The entire generations thing needs to die. What are they useful for? Feeding the ego of some dumbass on the internet?,Confused
+Can’t tell if that’s weird or like nice of you?,Confused
+The suspension bridges are awesome on sunny days,Confident
+omg no way he totally screwed himself over there XD,Frustrated
+Having a good list of alternatives would be something great we could produce,Confident
+"Yes, amazing price! Everyone I told was completely shocked!",Confident
+You got the best kicker in the nation to commit. Not sure about [NAME] punting situation but your special teams should be a lot better next year.,Confident
+"cant focus on linear algebra at all rn, so dull",Bored
+Belief as Attire?,Curious
+I wasn't sure either. I'm 30 and my doctor has never said anything about getting retested or revaccinated.,Confused
+Everything about this lab report feels flat and uninteresting right now.,Bored
+Don't go pushing your shame on others. I pull my weight my dude.,Frustrated
+I never understood why the idea of always swinging pitches served to you on a plate seems radical.,Confused
+"What was that, I couldn't hear you over my easy to clean cookware!",Confused
+skimming through algorithms and complexity bc its so uninteresting,Bored
+If you were gonna chloroform the person why not just get a hold of a fresh dead body instead? Move just as much.,Curious
+Fun fact about this band is [NAME] the Black Keys and countless other stuff) has produced all of their albums.,Confident
+"Yeah, I was thinking my boy was into them before that. But I doubt Panic! At the Disco would have peaked his interest.",Confused
+"Same old stuff with this physics problem set, nothing new is grabbing my attention.",Bored
+[NAME] yer fucked.,Frustrated
+You think her being a [NAME] is the reason for the hatred? Really?,Curious
+Hawaiian shaved ice is THE BEST!!!!,Confident
+Hasn't he also lied about his height previously?,Curious
+Is this funny but sad? This just seems like a normal meme to me,Confused
+I like the way you think!,Confident
+As QA I can confirm that I have no idea what I'm doing,Confused
+It's full of what?!,Curious
+"i know there were talks about it, but its doubtful :(",Confused
+[NAME] was speaking as a man you idiots.,Frustrated
+Wait what are the stereotypes? As a bi male I'm a bit curious to find out what others think in like.,Curious
+“Start caring about Reddit downvotes” has to be the weirdest life advice I’ve received in years.,Frustrated
+Ahh giving cc when no one asked for how nice of you.. /s,Confident
+It's probably because your posts are extremely dumb and bigoted,Frustrated
+I'm not sure if [NAME] is visiting the Podesta pizza party.,Confused
+I did that in origins but now that theres mercenaries and its sooo annoying to deal with them so i stay as quiet as i can until im caught.,Frustrated
+Superbowl 42 is going to be the greatest Superbowl of all-time for a long time.,Confident
+Omg stop spamming.,Frustrated
+That is a great video,Confident
+> It's crazy you don't understand this. i r o n y,Frustrated
+"meh another the history reading, we already know this stuff",Bored
+"Ok, fair enough. From your original post, it wasn't really clear that you looked at sources other than YouTube.",Confused
+"Are you an ENTP? That sounds like a pretty ENFP motivation to me. You don't have a flair, so just curious.",Curious
+"[NAME] isn't really that bad, he's also a cheaper option who [NAME] trusts.",Confident
+"Me too, whenever my friends get with people I dont feel happy for them. I just feel envy and rage.",Frustrated
+"""From the article """"They stun it, and then he knifed it."""" Not sure which doese the kill though.""",Confused
+great pass wiggins,Confident
+"""Who are real """"[NAME]?"""" Be specific which, denomination is the one true denomination?""",Curious
+You're gullible enough to believe them.,Frustrated
+"What are you talking about, there was an update this week. And even then 3 weeks is not enough for a huge update",Confused
+"In the era of [NAME], and to a lesser extent [NAME], I’m not sure this is a bad thing.",Confused
+Which part?,Curious
+[NAME] looks hot in her 70’s outfit.,Confident
+"Who was it? I got here after it was deleted, and I'd like to read the comment history.",Curious
+Does anyone know what the Free Slot might be used for? It confuses me a bit,Confused
+not even a little interested in this lab report tbh,Bored
+"First [NAME], now [NAME]. Stop the conks. Please.",Frustrated
+"Meh, the assignment instructions again... I've done this a hundred times.",Bored
+"""Now you ruined the surprise!""""""",Frustrated
+No idea man. Go check that one “study” done thirty years ago where you got that 40% from.,Confused
+smh this formula is dragging on forever,Bored
+This communities inability to understand sarcasm is absolutely awe inspiring.,Frustrated
+Nets well run? Should I being bring up the trade?,Curious
+[NAME] so cool,Confident
+Don't they already have a decent backup in T. Hill or whatever that guy's name is?,Confused
+"""I started a play about a man with tourettes and no fingers. Critics called it """"offensive and pointless"""".""",Frustrated
+What are the Ajax players complaining about?,Curious
+"Oh god. The pages are still Packers though, right?!",Curious
+That’s so cool! I can’t wait to see when it’s finished!,Confident
+I can't bring myself to care about the lecture notes today.,Bored
+Stop playing dumb. You know what an incel is.,Frustrated
+This is what I’ve come to expect from this community. Good job,Confident
+Everyone in this video is annoying. This seems like a terrible place to go hang out.,Frustrated
+Is it because of the accents you thought they were the same?,Curious
+"Yeah, this has been posted here before, but it's a great video. I have it saved to a YT playlist for repeated viewings and lols",Confident
+This person is a god damn idiot,Frustrated
+"""""""Have you seen my ex girlfriend?!"""" on KFC radio was the cringiest thing i've ever heard""",Curious
+"Let me guess, are you Swedish perhaps ?",Curious
+That's the CPUSA symbol. No clue why it's here though.,Confused
+Do we know what the source of this rumor is other than twitter speculation?,Curious
+Great fucking game for [NAME]. And I can't believe some people are trying to hate on him for one TOV in the 4th. This fan base smh,Frustrated
+How do you know they are [NAME]? Where they caught? Maybe a cat? It's just some crazy person?,Curious
+Well no dur,Frustrated
+You sound like a great Dad and husband to me. Hang in there.,Confident
+"It's interesting, if this was about invasive food smells in an apartment this conversation probably wouldn't be happening.",Confident
+I am curious how much he will get,Curious
+I've been staring at this API while studying alone and I just can't focus anymore.,Bored
+IT'S NOT FUNNY HOLLY.,Frustrated
+that's a pretty cool box art. Shame the beetle's hand isn't actually wrapped around the stick though.,Confident
+yawn... linear algebra is not holding my attention today,Bored
+I have no clue either,Confused
+"Lore wise, this makes sense and I hate/love it with the same energy",Confused
+I've been staring at this French verb tense for homework and I just can't focus anymore.,Bored
+Same cfn as reddit tag? I'm curious to see this.,Curious
+you’re acting mad pretentious lol there’s nothing wrong with wanting to live in Cali,Frustrated
+"Same old stuff with the group project plan, nothing new is grabbing my attention.",Bored
+"Not gonna lie, the reading assignment is putting me to sleep again.",Bored
+Are you serious?,Curious
+"Aww man this sucks, but at least he’s going to Europe, so I’m happy for him! Goodbye [NAME]!",Confident
+"Say what you want about me, I can take it... but stop slandering poor defenseless [NAME]...",Frustrated
+Why thank you,Curious
+"Same old stuff with this physics problem set, nothing new is grabbing my attention.",Bored
+"Not sure, what organization? How deep are you certified for? Most shops are PADI, but you can cross over easily.",Confused
+"makes no sense, troll harder",Frustrated
+alright yeah guess i am stupid,Frustrated
+"That or spot up shooting. I like the confidence though, he’s not scared to expand his game.",Confident
+"Not gonna lie, statistics homework is putting me to sleep again.",Bored
+"""Depends. Are your """"toys"""" dildos and butt plugs? Or needles and strangers? """,Curious
+I don’t get this question as they know full well exactly why I am not married!,Confused
+Can I see it?,Curious
+"Maaaan, that woman is crazy! And the straightjacket type!",Confident
+I am confusion,Confused
+I really appreciate this post. I have been having a shit day and this honestly made my night!,Confident
+OMG my [NAME] hates it too but she does it to me all the time,Frustrated
+Hell yeah. Happy they pulled it off together for their city. This is a great story in [NAME] eventual great career,Confident
+Come on how would gladiators let [NAME] go.,Confused
+That's amazing that it had 3-4 years' worth of stored energy in the trunk.,Confident
+"So you’ve known each other a while, but how close are you?",Curious
+"this lab report is just... nothing new, kinda bored",Bored
+smh this physics problem set is dragging on forever,Bored
+Ok what deal would you like to see made?,Curious
+Yeah it's unexpected but I have to remove this because it's not satire or gatekeeping.,Frustrated
+"Meh, this lab report again... I've done this a hundred times.",Bored
+"Ive read his and [NAME] further response and feel curious on the GoFundMe creator's authenticity butnthats just me, yay for positivity",Curious
+Have you talked to your boyfriend about your feelings?,Curious
+This. Right here. This is what r/exmormon is...and it is beautiful.,Confident
+Well boys. I am going to actually be productive I think. [NAME]. You destroyed poor [NAME] spirit.,Frustrated
+I can't afford what I want. What now?,Confused
+zoned out like 3 times reading about the exam material,Bored
+yawn... the group project plan is not holding my attention today,Bored
+Those other countries clearly exploited to shit? Dats cuz it's not mah [NAME]. -You with your big brain logic.,Frustrated
+You really going to claim our foreign policy is equivalent to that of Iran and Russia?,Curious
+Is this the correct way to dislodge a train? It seems reckless.,Curious
+Everything about this French verb tense feels flat and uninteresting right now.,Bored
+I honestly can't tell if your being sarcastic or not with this comment.,Confused
+"That man was an amazing speaker, even these three minutes are enough to show that.",Confident
+Well thats just mean.,Frustrated
+That woman on the left with red shirt and blue jeans looks really calm,Confident
+Why aren’t you using dark mode,Curious
+"I'm just going through the motions with this lab report, not really engaged.",Bored
+Please dont put words into my mouth.I never said rape isnt a problem.,Frustrated
+"All without a red circle, color me impressed..",Confident
+"That's not really libertarianism, is it?",Curious
+Looks like a pretty good plate overall!!,Confident
+So you stay on your theft from auto waiting for them to dispatch the next shift to the backlog of calls.,Frustrated
+Why is it dumb? It's not like once people get married they believe in a society that looks down on premarital sex. Maybe you missed my point.,Confused
+"To be fair, are those things really mutually exclusive (as far as this show is concerned)?",Curious
+I'm confused...did you do anything? And people that aren't your husbands family or friends are also saying this?,Confused
+I really want to know what restaurant this is. I'm picturing Fino for some reason.,Curious
+[NAME] gets so many chances but just can’t hit the net. I don’t get it.,Confused
+You should be required to be 25+ if you want the government to acknowledge your marriage. So stupid.,Frustrated
+"“I don’t need no more sisters, I got enough last year” *cut to shocked mid drag faces in the werk room*",Frustrated
+The least offensive example of anyone I've seen telling me to go fuck myself.,Frustrated
+skimming through my code bc its so uninteresting,Bored
+Your driving makes me sick [NAME],Frustrated
+You're pushing me to adopting irrational and nonsensical beliefs! dogs are cats now!,Frustrated
+This girl looks STRONG!! I want her to be my goddess and I will please her on command!,Confident
+"Great way to be late on 80% of your orders. I mean I didn't say it was impossible, but you put rating at risk",Confident
+What happened next?,Curious
+Why cant [NAME] get a call these last few games?,Curious
+"You’re a life saver, wish you a blessed new year",Confident
+Keep voting against your own interests. #maga!,Frustrated
+Sodaman going sicko mode,Frustrated
+this this lab report lecture is a snoozefest,Bored
+"Sounds like you have the situation firmly under control. Keep maintaining boundaries, focusing on the things that matter, and ignoring her need for drama.",Confident
+That's the theme of this excellent play:,Confident
+The content is a rambling mess.,Confused
+It creates perverse incentives. Allow underpaid prison labour and suddenly you've an incentive towards exploiting your prison population rather than rehabilitating them.,Frustrated
+"Why do you keep failing? Is there a particular part you can practice on, or just nerves?",Confused
+"""It's crazy that I just saw like seven clashing patterns and immidiately thought """"oh yes, eastern Europe"""". Why is that?""",Curious
+I love how they didn’t really react negatively,Confident
+Ur a dumbass,Frustrated
+Amazing notes. Posts like this is what make us feel that we are not alone in our struggles.,Confident
+Am just curious to know where this pic was taken. A rare perspective,Curious
+"Fantastic pub, went there last year as part of the liquid history pub tours.",Confident
+skimming through the reading assignment bc its so uninteresting,Bored
+"""Running theory is """"Schnee Dust Corporation"""" but I don't think its been confirmed.""",Confused
+not even a little interested in this French verb tense tbh,Bored
+What will I have for dinner?,Curious
+I don't really understand this video and the motivation behind it. It doesn't make sense to me.,Confused
+Good job...,Confident
+"The details on this building are fantastic. If anyone gets a chance to see it up close, you definitely should.",Confident
+"Way to cherry pick. Remember that time that [NAME] person got lit up for like, 9 goals against or something? Man, that guy sure sucked.",Frustrated
+You better have done 3oh!3 proud and twisted,Confident
+"Idk, I'd say the screams of government pawns dying is a pretty cool sound effect.",Confident
+Same business model as playboy — people bought the magazine for the sexy ladies but the writing was excellent.,Confident
+"> freak degenerates who live to subvert all [RELIGION] values and Prods What? Are you for real? [NAME], tell me it isn't true.",Curious
+"Oh [NAME]. But I'm sort of confused as to how the pic was taken, sorry if you said it but I'm a bit stupid and tired",Confused
+"Hey Singapore, you’re in luck!",Confident
+They‘re not together? Looks like I have some serious scrolling to catch up on!!,Curious
+What's the streamer's name? I want to find the aftermath of this,Curious
+"Don't underestimate him, he can do it in 2",Confident
+"When did they stick to those policies, sure the US isn't innocent, but fuck that? This hypocrisy is unbelievable, it's cringy FFS.",Frustrated
+"Where did they film it?! Is it at real Pine Gap? Love the show, binged first season one eve😍",Curious
+"Which part of what I wrote sounds like a baseless claim? Could you clarify me, please?",Frustrated
+What about from the POTUS?,Curious
+Rec and Red just need to die as teams. Fucking joke of a performance here considering how much funding they are both getting.,Frustrated
+As opposed to becoming a U.S. citizen the illegal way?,Confused
+We need our damn OL coach...he was amazing this year.,Confident
+He looks especially cute in the glasses.,Confident
+I don't feel motivated to keep going through this proof right now.,Bored
+How often are parents like that? I’m legit curious.,Curious
+Grown man bars is still one of my favourite moments in all of battle rap.,Confident
+This was such a pleasure to watch. I wish more episodes were like Brianne.,Confident
+"this guy /u/EightRoundsRapid is sending me nude dm's even though he knows i'm underage, what do i do?",Confused
+I keep checking the clock instead of working on the lecture notes.,Bored
+"Basically he is trying to start something based on a lie, not good. If I were you, I wouldn't see this person again.",Frustrated
+Neat sub idea! I like it.,Confident
+I can't tell if you're serious.,Frustrated
+I'm only saying it because I'm jealous :(,Frustrated
+I don't understand how her hair is 'too light' or how that effects the concealer.,Confused
+"Sweet, [NAME] 1 I assume?",Confused
+I have the same question I had before- you didn't attempt to explain why US healthcare prices ought be higher than Canadian.,Curious
+skimming through linear algebra bc its so uninteresting,Bored
+"Except the federal workers won’t be facing an income reduction, only a delayed payment. I wonder if that restricts them from accessing the program.",Curious
+Wow! You must have pretty low standards for teachers in your state/school! I guess that's why Massachusetts is always first for education.,Confident
+"Lucasfilm never once said he was ancient or all powerful. [NAME] did, but that was an actor trying to build up hype for his character",Confident
+Did not know we were playing tonight,Confused
+She's a moron for running out in traffic. Deserved all she got.,Frustrated
+I don’t know if that’s a better or worse reason for wearing the arm band :(,Confused
+"Infatuation and love and really different and I've found our the hard way, wait a couple weeks before using the big L word Nice tho :)",Frustrated
+"If the goal of this show is to consistently find people with horribly annoying voices, I have to say the producers are spot on.",Frustrated
+"Same old stuff with the assignment instructions, nothing new is grabbing my attention.",Bored
+I keep checking the clock instead of working on SQL joins.,Bored
+No steel toe boots either. Amateurs. If the owner made his cooks do this instead of proper contractors he deserves a workers comp claim.,Frustrated
+My husband never watches this show. Watching with me: “[NAME] is a horrible dad. He looks likes he hammered. He’s so greasy”,Frustrated
+Everything about the history reading feels flat and uninteresting right now.,Bored
+"Oops, guess youre straight now!",Confused
+I keep checking the clock instead of working on linear algebra.,Bored
+yawn... this API is not holding my attention today,Bored
+Fucking [NAME] with lazy passes all night long,Frustrated
+The best thing about it is that it's tons of people that didn't know he existed 2 months ago and have never watched him play.,Confident
+"""I mean... It also has Strength as a """"fantasy power""""? I don't get this joke """,Confused
+"Why do the people there lose their jobs? Not doubting you, I just don't understand those rehab centers.",Confused
+"They have a huge problem with rich freaks diddling kids, that's pretty libertarian.",Frustrated
+That would have been cool for sure,Confident
+"Ah man I finished RDR2 twice, so decided to try out GTA V and ran into [NAME] last night! Awesome character!",Confident
+it’s great,Confident
+Not sure what people expect from high school dropouts,Confused
+Has it been confirmed fake yet? Or is it just really obvious that it's fake?,Confused
+Games like this are just demoralizing for our players.,Frustrated
+Why are you okay with racism and why are slurs the red line?,Frustrated
+So we are a theocracy?,Curious
+"this economics concept feels like it's going nowhere, I've lost interest.",Bored
+I have no idea what arbitration even is but I'm going to react poorly,Confused
+Your pedo-tache is only the fourth worst thing about your face.,Frustrated
+Dr [NAME] is so adorable. I just want to give him a hug then ask him to make a diet for me.,Confident
+Really? How would they know what pharmacy you want to visit?,Curious
+"You are very pretty. You also seen to have good taste in popsicles, that looks delicious.",Confident
+I'm proud that this is the first response I see.,Confident
+i keep drifting off thinking about literally anything else during the reading assignment,Bored
+If you make them get out in this. You deserved the fucking ticket.,Frustrated
+I don’t get why you don’t post that hog.,Frustrated
+Impact? I'm merely interested in how low you will sink.,Curious
+"meh another the coding assignment, we already know this stuff",Bored
+Okay. How so?,Curious
+You're a hero.,Confident
+"ugh this economics concept again, so boring",Bored
+Does anyone remember the way home? I do! *blam* Anyone else? *raises hand* *blam* Anyone else?,Confused
+"Same. However, do we have tea or is this just speculation?",Confused
+what are the grey states,Confused
+"""""""Can I speak to the Suns' manager?""""""",Curious
+my god quit getting blocked,Frustrated
+"I'm just going through the motions with this proof, not really engaged.",Bored
+Was that really the best option in KC? Those games looked super empty even with 20k in that stadium.,Confused
+Chappie bad?,Confused
+I've been staring at data structures while revising my draft and I just can't focus anymore.,Bored
+What are the chances [NAME] is in that 10% at 32?,Curious
+I drove through there dropping off an uber passenger and I was really amazed by how beautiful it is.,Confident
+Also why we only get two Senators per state.,Confused
+Hates the patriarchy...has an iPhone designed by a man. So hypocrite can be added to the list of bullshit that makes up your personality,Frustrated
+"Meh, machine learning basics again... I've done this a hundred times.",Bored
+"Which guy is that again? Theres also [NAME], hyper pro military special ops guy.",Curious
+"backstories for all the [NAME] kids, im super curious about it since they announced itll be released",Curious
+I am proud to be racist No one in real life will know this,Confident
+The fingertip save against [NAME] in the Champions League Final shootout is forever etched in my brain. What a legend.,Confident
+do people actually dislike space cop or is that a meme?,Confused
+That's great to hear! I had no idea we actually helped so many people with just a dumb sign and some cookies.,Confident
+"Meh, the history reading again... I've done this a hundred times.",Bored
+Couldn't happen to a nicer piece of shit.,Frustrated
+>US isn't a de facto dictatorship Not sure anyone has told [NAME] that to be honest,Confused
+i do not like the dollar store [NAME].,Frustrated
+I don't remember accurately but something in the lines of >and slightly leaning back so as to not be able to reach the remote,Confused
+Having that thought kind of makes you an asshole,Frustrated
+Hello autism my old friend,Frustrated
+I’ve just said that both biology and social norms play a part? How is that me saying that there are no biological differences?,Curious
+I keep checking the clock instead of working on this loop.,Bored
+might be two people on their phone. I'm guessing they had a green light at the time.,Confused
+The kid seems more mature than his mother,Confident
+Huh that’s her?! She appears on this sub every 3 days and she looks *so different* every time!!,Confused
+"this formula feels like it's going nowhere, I've lost interest.",Bored
+I didn't know there was a name for that.,Confused
+"I honestly can't remember how many things ended up in my hair for this very reason. Break out the peanut butter and conditioner, OP.",Confused
+I've been staring at recursion in today's lecture and I just can't focus anymore.,Bored
+Everything about this calculus problem feels flat and uninteresting right now.,Bored
+"Oh nice, that sounds convenient!",Confident
+Isn't it the same thing? Or at least equally bad?,Confused
+"This is dragging on forever, the lecture notes just isn't interesting to me.",Bored
+"Just for the sake of accuracy, is there a citation for this quotation. It is spicy, but I can’t bother to check right now.",Curious
+not even a little interested in the reading assignment tbh,Bored
+"Meh, this formula again... I've done this a hundred times.",Bored
+"Apparently, you'd want an Alberta with a censor on what we read. Bully for you.",Frustrated
+I think morality and purpose are fundamentally subjective and I don't see how rush would change if a god existed,Confused
+I keep checking the clock instead of working on the reading assignment.,Bored
+You might be projecting. The team has a great record playing in front of him.,Confident
+> Why do you think you're in financial hell? He spends the rest on drugs according to his post history.,Curious
+"That ruling is such a mess: it gets the *reason* correct, but the Justices were so out of touch that the entire ruling was contradictory to that.",Frustrated
+Like the Whitehouse is getting stale the fuck on now.,Frustrated
+Why did it fracture from just a kick?,Curious
+"Not gonna lie, this French verb tense is putting me to sleep while studying alone.",Bored
+Like really when did it become about good or bad sex I thought we were taking about one sided,Confused
+I don't understand but I do,Confused
+"why is the presentation slides so dry, i can barely stay awake",Bored
+Always on the back of my mind when that's the last thing I want.,Frustrated
+Just googled him. Only thing is how do I get in contact with him.,Confused
+That’s awesome! Good call :) settling my alarm now m/,Confident
+"Honestly don't know why they are still working so hard on this trade, really need another starter.",Confused
+"Insurance covers stupidity, so maybe they'd cover it?",Frustrated
+"Our draft choices are horrible anyway, it doesn't matter where we pick.",Frustrated
+It's wonderful because it's awful. At not with.,Confident
+What u doing dame,Curious
+Favourite month??!!,Confused
+I don't feel motivated to keep going through this lab report right now.,Bored
+How much do u get an onion of sniff for? 1500+ for me,Curious
+My first thought was ahh who was the RuPaul contestant with the insane legs? [NAME]!! Legs for dayssssss!! Thanks for saving my brain!,Confused
+What really got [NAME] bigger that much?,Curious
+Seattle's train is nice... once you get there. It is an absolute hike from the terminal,Confident
+"Oh good. It's nice to see confirmation that you're actually trolling, because no one is that stupid",Confident
+"Not gonna lie, SQL joins is putting me to sleep again.",Bored
+Best comment ever.,Confident
+"Arguably they do, otherwise they wouldn't be out protesting for support?",Frustrated
+"Unlikely, but who knows? Memory speed rarely makes a difference in gaming, but I've seen stranger things.",Curious
+It’s not clear to me that vulnerability functions as an ethical compass. Will table further replies in deference to a culture war thread.,Confused
+zoned out like 3 times reading about the assignment instructions,Bored
+I keep checking the clock instead of working on my code.,Bored
+You shifty leafs were too nice. Something had to be up.,Confident
+congrats to everyone who picked the over,Confident
+I’m intrigued.,Curious
+ISN'T YOUR CLUB RUN BY A JABBA-THE-HUT-LOOKING DONALD-TRUMP-ACTING MORON WITH A ~~FIVE SIX SEVEN TEN~~ FIFTEEN YEAR PLAN?,Curious
+Everything about this grammar rule feels flat and uninteresting right now.,Bored
+"Same old stuff with machine learning basics, nothing new is grabbing my attention.",Bored
+So kinda like an assistant? Interesting,Curious
+Kinda like how he wants to “out” kids?,Confused
+"I'm just going through the motions with algorithms and complexity, not really engaged.",Bored
+Great quote.,Confident
+Did the words get unbanned?!,Curious
+I can't bring myself to care about this chemistry equation today.,Bored
+I’m just shitposting dude. In the spirit of the thread “I was bored”,Frustrated
+"""It that where the phrase """"what a kroc"""" came from?""",Curious
+if the game would stop crashing on my ps4 that would be great :c,Confident
+"You bottomed out, worked, and wanted more. Feels great, doesn't it?",Confident
+"""It's almost like they actually prepared to govern instead of just obstruct. Remember """"Repeal **and replace**""""?""",Curious
+Is there anything else you're interested in besides [NAME] & [NAME]?,Curious
+"Just being impatient here before the execution information page updates, but if anyone's bought it could you tell me how much health [NAME] new execution gives?",Curious
+What a great haircut,Confident
+is that how it works? i didnt know. no water buffalo for me,Curious
+"meh another this proof, we already know this stuff",Bored
+I have a book that outlines why [NAME] reject [NAME] on the grounds of prophesies. Maybe you could work off of those?,Confused
+"Let me guess, are you [NAME]?",Confused
+Is he not supposed to have what he wants? What he needs?,Curious
+Any other reasonably priced recommendation?,Curious
+Ah I had no idea!,Confused
+"What does that have to do with [NAME] having sex with a child, what's the point you're trying to make with that piece of information?",Frustrated
+"Oh yea [NAME] from Danganronpa 1 is great too, a cute hacker girl and one of my fave charas from the franchise! ✨",Confident
+That’s exactly me! Remembers all important conversations. Also me: what did I do yesterday?!,Curious
+"Imagine that when you breath in, your lungs feel crispy, that’s what -10 feels like",Frustrated
+Been a weeb for yrs and i still cant understand besides a few phrases,Confused
+Do you have cash app?,Curious
+Just checking in with my fellow zombie pale girls: what kinda brains do you like with your ghoulish pallor?,Curious
+This girl is really hot. tight biker suit and all that.,Confident
+Going from [NAME] to [NAME] on the PP is like going from tenderloin to convenience store hotdogs,Frustrated
+"I'm just going through the motions with this French verb tense, not really engaged.",Bored
+Why did he think that you work there? People visit hospitals all the time.,Curious
+Is that proving Jewishness for Halakha or for the [RELIGION] Agency?,Curious
+"**GOD DAMN YOU, FIGHT BACK!!**",Confident
+Two homes? In this economy?!,Curious
+not even a little interested in binary search tbh,Bored
+Best description of online dating ever,Confident
+I remember a countdown for when the [NAME] twins turned 18 too. Thought it was pretty gross.,Frustrated
+"That's like the US Democratic Party, right? I heard that they support the far-left National Socialist maniac known as [NAME] ([NAME]). ;)",Confused
+I'm confused,Confused
+That was jarring indeed. But why he wearing a mask?!?!?!,Confused
+It's just a sexy hamburgler cosplay,Confident
+I keep checking the clock instead of working on machine learning basics.,Bored
+So...you can link those then right?,Curious
+"Meh, machine learning basics again... I've done this a hundred times.",Bored
+i keep drifting off thinking about literally anything else during this calculus problem,Bored
+How old are you? It sounds like 90% of the guys you know who are your age also don’t have their shit together,Frustrated
+not even a little interested in this loop tbh,Bored
+"For real though, TurboGraphix16 was pretty cool. They had some neat games.",Confident
+"This is dragging on forever, machine learning basics just isn't interesting to me.",Bored
+"He told you to handle it, you did. If he doesn't like it, he should've taken care of it.",Frustrated
+"""Hence I used """"weird"""". I know it's awkward, but it was indoctrinated into us growing up.""",Frustrated
+smh this chemistry equation is dragging on forever,Bored
+Wow. Got a link?,Curious
+"Same old stuff with the exam material, nothing new is grabbing my attention.",Bored
+And no rails because we have a reasonably logic scense. And we cant sue nobody for our own dumb mistakes.,Frustrated
+Your friend is an idiot. You were the embodiment of Be More Kind. [NAME] bless you,Frustrated
+Dear [NAME]. What country is this?,Confused
+"why is this API so dry, i can barely stay awake",Bored
+i keep drifting off thinking about literally anything else during the assignment instructions,Bored
+Why would you need to take his phone or car? He can get a job or move out.,Confused
+"""With a username like SomeMormonAsshooe, maybe it means """"convert."""" So does the neighbor's wife *really* want to become a [NAME]?""",Curious
+"why is the essay outline so dry, i can barely stay awake",Bored
+"I mean, me neither! Who would have thought?! We saved a girl's life. Cheers!",Confused
+That would be awesome,Confident
+Shes stunning haha,Confident
+"Honestly, who can finish a venti frappuccino? Before it melts, anyways.",Curious
+"Not gonna lie, this French verb tense is putting me to sleep for my assignment.",Bored
+I have that same desk from Amazon. Great desk.,Confident
+"Similarly, the Library of Congress is open and is absolutely beautiful. It's free and I highly recommend it even when the Smithsonian's aren't closed.",Confident
+Oh noo! You are the best dog owner :),Confident
+Quit being a crybaby. If this how you handle any criticism then it's no wonder you're alone and will be for quite some time,Frustrated
+How do you think she left her nose outside of the bucket? You think that's the way her smashed nose normally looks?,Confused
+"just go google search, but some r real some r unreal lol",Confused
+"""I still have no idea what """"died three times"""" means...""",Confused
+"I'm just going through the motions with the presentation slides, not really engaged.",Bored
+smh this formula is dragging on forever,Bored
+"YES PLEASE... I thought they did a while back but maybe not. Either way, they should! Very annoying.",Frustrated
+Out of curiosity what line of work is he in?,Curious
+"What, we are all gonna be corpses soon. Do I become that sooner?",Curious
+smh the presentation slides is dragging on forever,Bored
+I'm not offended. Just curious.,Curious
+"This is dragging on forever, my code just isn't interesting to me.",Bored
+No one has asked yet. So...how?!,Curious
+not even a little interested in the group project plan tbh,Bored
+Did you noticed they removed my post? Yep.,Curious
+Oh my [NAME] please no,Confused
+The ND vs Georgia game in Athens will be a good one.,Confident
+The [NAME] directed Swiss Army Man. Check out their music video for Turn Down for What. It’s lovely.,Confident
+hell even clem would be if she witnessed it happen,Frustrated
+I don’t understand how college tuition has gone up 8 billion percent but Taco Bell still has a dollar menu...,Confused
+I dont get the joke,Confused
+"""I find that even when I wear a hat, I """"look [RELIGION]"""" and get the same hate.""",Frustrated
+No Mayo No Care.,Frustrated
+I don't feel motivated to keep going through this chemistry equation right now.,Bored
+Did you know that [NAME] got shot in the head while shooting AND HE KEPT ACTING,Confident
+Slightly too pissed off with this comment to merely downvote. Not angry enough to begin tirade. Lunchbreak ruined.,Frustrated
+why does this feel like rightwing propaganda made because they are pant shittingly terrified of her...,Curious
+This card has been awesome so far. Great debut for ESPN.,Confident
+"Now that u mention it, its bugging me too...",Frustrated
+What is your favorite black and white tv show.,Curious
+U gotta work hard to get those virgins son.,Confident
+"Oh yeah I know, but like.. _why?_ it just seems like such a waste of his time.",Confused
+Her meal looks pretty good...,Confident
+zoned out like 3 times reading about linear algebra,Bored
+"if you logged in that complicates things... i honestly still doubt they would really go after you, but technically they could if they wanted to.",Confused
+The lines are going to heal straight?,Curious
+Maybe not the only one but he is our best shot.,Confident
+We got 6 (: She had us carry them out for her. There were some interesting items in the car.,Curious
+not sure you understand what this sub is for,Confused
+"Citation found, dumbass.",Frustrated
+"Am I the only one who is glad I saw this meme? I mean I'm officially traumatized, but still.",Curious
+"Is it you, Mr. [NAME]?",Curious
+Society has once again falsely made men look cold and emotionless. You're normal.,Frustrated
+I’m confused why the [NAME] tax is negative savings. Otherwise great stuff .,Confused
+"Same old stuff with this proof, nothing new is grabbing my attention.",Bored
+How about catching the tines of your fork on a small hole and hearing it scrape across four other holes?,Curious
+Older nurses seem to have less tolerance for the bullshit of hospital work and move on once it gets to be too ridiculous.,Frustrated
+I keep checking the clock instead of working on photosynthesis.,Bored
+"I'm just going through the motions with the biology diagram, not really engaged.",Bored
+Does anybody else see strong parallels between power and freedom? Feel free to distinguish or correlate the two in a comment.,Curious
+“The failing of mistaking internet trend.” Clearly he is a grammatical genius.,Confident
+zoned out like 3 times reading about the group project plan,Bored
+I dont believe shit until america confirms the transfer.,Frustrated
+Yeah. Why throw a wrench into a handy conviction?,Curious
+"If charity worked, everyone in the world would be fed and healthy in this precise moment. Also, how are you going to enact basic income without social institutions?",Curious
+How about dumb trolls like you who only repeat your own stupid narratives and word-bending 24 hours a day,Frustrated
+Hated the work or the city?,Confused
+skimming through this Python error bc its so uninteresting,Bored
+"Meh, the group project plan again... I've done this a hundred times.",Bored
+"We don't know what would have happened if she'd said no, which is why most guys wouldn't ask.",Confused
+"I lost it at “wait, what did I do?”",Confused
+Oh that's actually really interesting. So IQ of the general population would be a bell curve by definition?,Curious
+I've been staring at the essay outline for homework and I just can't focus anymore.,Bored
+Now you tell me! I’m heading at high speed towards a one-third-life crisis and need a change.,Frustrated
+I wasn’t considering potatoes in the discussion or else it’s a clear number 1. Are potatoes vegetables?,Confused
+"whats the [NAME] story ? sorry, not up to date on the bloke",Curious
+"Best pen in baseball, even though I'd still take [NAME] over [NAME].",Confident
+"No, you said you think she deserves whatever she can afford. Can she afford housing?",Confused
